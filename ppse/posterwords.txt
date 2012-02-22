@@ -1,0 +1,61 @@
+====================================
+		{T1}
+     
+     {SS1}    ---->      {SS2}
+
+		./
+   		--> {SS4}		- Top section, 66% of height
+     {SS3} ----|
+		--> {SS5}
+
+------------------------------------
+		{T2}
+
+    {KS1}      {KS2}      {KS3}		- Bottom section, 33% of height
+
+====================================
+
+
+{T1} The RIT Remixerator (Title + brief blurb}
+The RIT Remixerator is an open source project that provides a web-based interface to creating custom Fedora Remixes. The project is a fork of the Dorrie project, and leverages Django, and several python libraries, to create its user experience.
+
+
+{SS1}
+SCREEN SHOT OF HOME SCREEN
+To begin, the user is prompted to supply general information about their remix, most importantly a name of the distribution, and a base kickstart file. The options given are generated from the list of available spin included in the spin-kickstarts rpm. Using Django forms, the user can easily upload their own kickstart file to use as a base. User sessions are assigned a unique ID, allowing many sessions to happen simultaneously.
+
+
+{SS2}
+SCREEN SHOT OF PACKAGES
+The py-kickstart library parses the supplied base kickstart file and creates appropriate objects that encapsulate many of its options, perhaps most importantly, its package information. This information is easily iterable, and the fields are selected or deselected programmatically through the use of Django's Mako Template features. Certain fields have corresponding preview images which are dynamically displayed. Selection or deselection modifies the underlying state object for that session.
+
+
+{SS3}
+Processing Image?
+After selecting packages, the RIT Remixerator uses py-kickstart to transform the corresponding state object into a new kickstart file. This file is ready to be served to the user/////// The user is then given a choice with what they'd like to do.
+
+
+{SS4}
+Picture of a file icon
+The user may select to just download their new modified kickstart file. This kickstart file can be supplied to other remix creation tools, such as the create-livecd tool, or distributed to special interest groups so that people can make their own.
+
+{SS5}
+Screen shot snippet of the "create live cd" status, with an arrow pointing to a disk
+Alternatively, the user can initiate one last step and turn the kickstart file into a live cd. The RIT Remixerator launches a new process, handing the kickstart file to the create-livecd tool, and the user is notified on completion, and may download their fresh iso.
+
+
+
+{T2}
+What is a Fedora Spin/Remix?
+
+{KS1}
+Picture: Spin logo and Remix logo
+Certain groups of users use their Fedora installations for specific reasons. Some need a distribution for security tools. Others use it for working with scientific applications. The Fedora community makes tailored distributions available for these groups of people, either through officially endorsed flavors (spins), or through unofficial configurations that may not use Fedora software (remixes).
+
+{KS2}
+Picture: snippets of a kickstart file (%include portion, snippet of %packages)
+Spins and Remixes base themselves on one of several base configurations that range from a minimal kickstart, to the KDE live cd kickstart file. The remix or spin kickstart can then add to, or remove from, the list of packages pulled into the temporary file system that is made when using the create-livecd tool.
+
+{KS3}
+Picture: snippets of a kickstart file (%post)
+Kickstart files are also able to tailor the created live-cd environment in the post script section. This can range from setting the default wallpaper and aesthetics of the install, to customizing the settings of various applications, to even changing the livecd user's home environment.
