@@ -1,17 +1,17 @@
 ====================================
-		{T1}
-     
+        {T1}
+
      {SS1}    ---->      {SS2}
 
-		./
-   		--> {SS4}		- Top section, 66% of height
+        ./
+        --> {SS4}       - Top section, 66% of height
      {SS3} ----|
-		--> {SS5}
+        --> {SS5}
 
 ------------------------------------
-		{T2}
+        {T2}
 
-    {KS1}      {KS2}      {KS3}		- Bottom section, 33% of height
+    {KS1}      {KS2}      {KS3}     - Bottom section, 33% of height
 
 ====================================
 
