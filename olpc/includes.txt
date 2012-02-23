@@ -1,0 +1,15 @@
+Projects:
+    (RIT Symposium)
+        Open Video Chat
+        Fortune Hunter
+        Lemonade Stand
+        Blocku
+        CIVX?
+    (PyCon Proper)
+        Lazorz
+        WebBots
+        GoldRush
+
+Courses:
+    HFOSS
+    IGM Seminar
