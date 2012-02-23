@@ -17,31 +17,52 @@
 
 
 {T1} The RIT Remixerator (Title + brief blurb}
-The RIT Remixerator is an open source project that provides a web-based interface to creating custom Fedora Remixes. The project is a fork of the Dorrie project, and leverages Django, and several python libraries, to create its user experience.
+The RIT Remixerator is an open source project that provides a web-based
+interface to creating custom Fedora Remixes. The project is a fork of the
+Dorrie project, and leverages Django, and several python libraries, to create
+its user experience.
 
 
 {SS1}
 SCREEN SHOT OF HOME SCREEN
-The user is prompted to supply general information about their remix, including the name of the distribution, and a base kickstart file. If the RIT Remixerator's server has the spin-kickstarts packages installed, the user may select one of the included kickstart files as a basis for their remix. Using Django forms, the user may also upload their own kickstart for use. Users are assigned a unique ID, allowing this process to be multi-session.
+The user is prompted to supply general information about their remix, including
+the name of the distribution, and a base kickstart file. If the RIT
+Remixerator's server has the spin-kickstarts packages installed, the user may
+select one of the included kickstart files as a basis for their remix. Using
+Django forms, the user may also upload their own kickstart for use. Users are
+assigned a unique ID, allowing this process to be multi-session.
 
 
 {SS2}
 SCREEN SHOT OF PACKAGES
-The pykickstart library parses the supplied base kickstart file and creates appropriate objects that encapsulate many of its options, perhaps most importantly, its package information. This information is easily iterable, and the corresponding fields are chosen programmatically through the use of Django's Mako Templates features. Some options, like those for the desktop environment, have preview images that are dynamically displayed.
+The pykickstart library parses the supplied base kickstart file and creates
+appropriate objects that encapsulate many of its options, perhaps most
+importantly, its package information. This information is easily iterable, and
+the corresponding fields are chosen programmatically through the use of
+Django's Mako Templates features. Some options, like those for the desktop
+environment, have preview images that are dynamically displayed.
 
 
 {SS3}
 Processing Image?
-After selecting packages, the RIT Remixerator uses pykickstart to transform the corresponding state object into a new kickstart file. This file is ready to be served to the user.
+After selecting packages, the RIT Remixerator uses pykickstart to transform the
+corresponding state object into a new kickstart file. This file is ready to be
+served to the user.
 
 
 {SS4}
 Picture of a file icon
-The user may choose to just download their new modified kickstart file. This kickstart file can be supplied to other remix creation tools, such as the livecd-creator tool, or distributed to special interest groups so that people can make their own.
+The user may choose to just download their new modified kickstart file. This
+kickstart file can be supplied to other remix creation tools, such as the
+livecd-creator tool, or distributed to special interest groups so that people
+can make their own.
 
 {SS5}
 Screen shot snippet of the "create live cd" status, with an arrow pointing to a disk
-Alternatively, the user can initiate one last step and turn the kickstart file into a live cd. The RIT Remixerator launches a new process, handing the kickstart file to the livecd-creator tool, and the user is notified on completion, and may download their fresh iso.
+Alternatively, the user can initiate one last step and turn the kickstart file
+into a live cd. The RIT Remixerator launches a new process, handing the
+kickstart file to the livecd-creator tool, and the user is notified on
+completion, and may download their fresh iso.
 
 
 
@@ -50,12 +71,23 @@ What is a Fedora Spin/Remix?
 
 {KS1}
 Picture: Spin logo and Remix logo
-Certain groups of users use their Fedora installations for specific reasons. Some need a distribution for security tools. Others use it for working with scientific applications. The Fedora community makes tailored distributions available for these groups of people, either through officially endorsed flavors (spins), or through unofficial configurations that may not use Fedora software (remixes).
+Certain groups of users use their Fedora installations for specific reasons.
+Some need a distribution for security tools. Others use it for working with
+scientific applications. The Fedora community makes tailored distributions
+available for these groups of people, either through officially endorsed
+flavors (spins), or through unofficial configurations that may not use Fedora
+software (remixes).
 
 {KS2}
 Picture: snippets of a kickstart file (%include portion, snippet of %packages)
-Spins and Remixes base themselves on one of several base configurations that range from a minimal kickstart, to the KDE live cd kickstart file. The remix or spin kickstart can then add to, or remove from, the list of packages pulled into the temporary file system that is made when using the livecd-creator tool.
+Spins and Remixes base themselves on one of several base configurations that
+range from a minimal kickstart, to the KDE live cd kickstart file. The remix or
+spin kickstart can then add to, or remove from, the list of packages pulled
+into the temporary file system that is made when using the livecd-creator tool.
 
 {KS3}
 Picture: snippets of a kickstart file (%post)
-Kickstart files are also able to tailor the created livecd environment in the post script section. This can range from setting the default wallpaper and aesthetics of the install, to customizing the settings of various applications, to even changing the livecd user's home environment.
+Kickstart files are also able to tailor the created livecd environment in the
+post script section. This can range from setting the default wallpaper and
+aesthetics of the install, to customizing the settings of various applications,
+to even changing the livecd user's home environment.
