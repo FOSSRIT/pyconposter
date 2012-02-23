@@ -45,7 +45,7 @@ environment, have dynamically displayed preview images.
 
 
 {SS3}
-Processing Image?
+SCREEN SHOT OF BUILD
 After selecting packages, the RIT Remixerator uses pykickstart to transform the
 corresponding state object into a new kickstart file, ready to be served to the
 user.
