@@ -27,17 +27,17 @@ To begin, the user is prompted to supply general information about their remix, 
 
 {SS2}
 SCREEN SHOT OF PACKAGES
-The py-kickstart library parses the supplied base kickstart file and creates appropriate objects that encapsulate many of its options, perhaps most importantly, its package information. This information is easily iterable, and the fields are selected or deselected programmatically through the use of Django's Mako Template features. Certain fields have corresponding preview images which are dynamically displayed. Selection or deselection modifies the underlying state object for that session.
+The py-kickstart library parses the supplied base kickstart file and creates appropriate objects that encapsulate many of its options, perhaps most importantly, its package information. This information is easily iterable, and the corresponding fields are chosen programmatically through the use of Django's Mako Templates features. Some options, like those for the desktop environment, have preview images that are dynamically displayed.
 
 
 {SS3}
 Processing Image?
-After selecting packages, the RIT Remixerator uses py-kickstart to transform the corresponding state object into a new kickstart file. This file is ready to be served to the user/////// The user is then given a choice with what they'd like to do.
+After selecting packages, the RIT Remixerator uses py-kickstart to transform the corresponding state object into a new kickstart file. This file is ready to be served to the user.
 
 
 {SS4}
 Picture of a file icon
-The user may select to just download their new modified kickstart file. This kickstart file can be supplied to other remix creation tools, such as the create-livecd tool, or distributed to special interest groups so that people can make their own.
+The user may choose to just download their new modified kickstart file. This kickstart file can be supplied to other remix creation tools, such as the create-livecd tool, or distributed to special interest groups so that people can make their own.
 
 {SS5}
 Screen shot snippet of the "create live cd" status, with an arrow pointing to a disk
