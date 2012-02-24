@@ -130,7 +130,7 @@
        x2="2083.833"
        y2="28.888834"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0025587,0,0,1.0155681,0.01873643,-2187.7168)" />
+       gradientTransform="matrix(0.99428632,0,0,1.0155695,5.0988936,-2192.847)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -139,9 +139,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27577164"
-     inkscape:cx="2549.7607"
-     inkscape:cy="1786.9412"
+     inkscape:zoom="0.195"
+     inkscape:cx="819.90176"
+     inkscape:cy="1808.7105"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -152,7 +152,8 @@
      inkscape:window-height="840"
      inkscape:window-x="0"
      inkscape:window-y="26"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:snap-nodes="true">
     <sodipodi:guide
        position="0,0"
        orientation="0,4320"
@@ -203,13 +204,13 @@
      id="layer1"
      transform="translate(0,2187.6175)">
     <rect
-       style="opacity:0.7;fill:url(#linearGradient4009);fill-opacity:1;stroke:#9090a5;stroke-width:1.0090425;stroke-opacity:1"
+       style="opacity:0.7;fill:url(#linearGradient4009);fill-opacity:1;stroke:#9090a5;stroke-width:1.00487173;stroke-opacity:1"
        id="rect4001"
-       width="4349.9907"
-       height="3261.1021"
-       x="-5.551034"
-       y="-2180.9463"
-       ry="74.756989" />
+       width="4314.0977"
+       height="3261.1062"
+       x="-0.42491207"
+       y="-2186.0764"
+       ry="0" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:27.50201035;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3761"
