@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
@@ -301,7 +301,7 @@
          id="flowRoot3922"
          xml:space="preserve"><flowRegion
            id="flowRegion3924"><rect
-             style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+             style="font-size:63.78681564px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
              y="1003.6364"
              x="231.81818"
              height="150.00006"
@@ -387,7 +387,7 @@
          id="flowRoot3922-6-9"
          xml:space="preserve"><flowRegion
            id="flowRegion3924-0-1"><rect
-             style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+             style="font-size:66.51128387px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
              y="1003.6364"
              x="231.81818"
              height="150.00006"
@@ -405,11 +405,16 @@
              height="756.3645"
              width="1051.1875"
              id="rect3934-6-4" /></flowRegion><flowPara
-           id="flowPara3952-0-0">Educational dungeon crawler with magic and monsters</flowPara><flowPara
-           id="flowPara4655" /><flowPara
-           id="flowPara4657">Attack monsters by completing 4th grade math questions such as arithmetic, geometry, and pattern recognition</flowPara><flowPara
-           id="flowPara4659" /><flowPara
-           id="flowPara3948-4-2">Developed through the Humanitarian Open Source Development course</flowPara></flowRoot>      <g
+           id="flowPara3952-0-0"
+           style="font-size:54.50803375px">Educational dungeon crawler with magic and monsters</flowPara><flowPara
+           id="flowPara4655"
+           style="font-size:54.50803375px" /><flowPara
+           id="flowPara4657"
+           style="font-size:54.50803375px">Attack monsters by completing 4th grade math questions such as arithmetic, geometry, and pattern recognition</flowPara><flowPara
+           id="flowPara4659"
+           style="font-size:54.50803375px" /><flowPara
+           id="flowPara3948-4-2"
+           style="font-size:54.50803375px">Developed through the Humanitarian Open Source Development course</flowPara></flowRoot>      <g
          transform="matrix(0.65096997,0,0,0.78918514,121.85684,-392.3209)"
          id="g3446">
         <image
@@ -454,12 +459,12 @@
          id="rect3763-3-1-4"
          style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <flowRoot
-         transform="matrix(0.98316906,0,0,1.1919174,2835.3584,-2766.5945)"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+         transform="matrix(0.98316906,0,0,1.1919174,2861.9853,-2781.4616)"
+         style="font-size:66.51128387px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowRoot3922-6-9-6"
          xml:space="preserve"><flowRegion
            id="flowRegion3924-0-1-3"><rect
-             style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+             style="font-size:66.51128387px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
              y="1003.6364"
              x="231.81818"
              height="150.00006"
@@ -509,12 +514,12 @@
          id="rect3763-3"
          style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <flowRoot
-         transform="matrix(0.98316899,0,0,1.1919173,307.84544,-1457.3166)"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+         transform="matrix(0.98316899,0,0,1.1919173,330.47635,-1458.3552)"
+         style="font-size:66.51128387px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowRoot3922-6"
          xml:space="preserve"><flowRegion
            id="flowRegion3924-0"><rect
-             style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+             style="font-size:66.51128387px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
              y="1003.6364"
              x="231.81818"
              height="150.00006"
@@ -532,19 +537,19 @@
              height="1012.3501"
              width="1100.6554"
              id="rect3934-6" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           style="font-size:54.50803375px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
            id="flowPara3948-4">Educational money management game</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           style="font-size:54.50803375px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
            id="flowPara4701" /><flowPara
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           style="font-size:54.50803375px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
            id="flowPara4703">Teaches 4th grade math and economic concepts such as decimals and money</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           style="font-size:54.50803375px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
            id="flowPara4709" /><flowPara
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           style="font-size:54.50803375px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
            id="flowPara4711">Uses the Fortune Hunter game engine</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           style="font-size:54.50803375px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
            id="flowPara4705" /><flowPara
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           style="font-size:54.50803375px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
            id="flowPara4707">Developed through the Humanitarian Open Source Development course</flowPara></flowRoot>      <image
          width="200"
          height="200"
@@ -572,12 +577,12 @@
          id="rect3763-3-5"
          style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <flowRoot
-         transform="matrix(0.98316899,0,0,1.1919173,1708.2054,-1418.7926)"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+         transform="matrix(0.98316899,0,0,1.1919173,1698.7587,-1433.6596)"
+         style="font-size:66.51128387px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowRoot3922-6-8"
          xml:space="preserve"><flowRegion
            id="flowRegion3924-0-3"><rect
-             style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+             style="font-size:66.51128387px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
              y="1003.6364"
              x="231.81818"
              height="150.00006"
@@ -596,26 +601,27 @@
              width="1119.6373"
              id="rect3934-6-3" /></flowRegion><flowPara
            id="flowPara3948-4-5"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Interested in Open Source or Humanitarian Projects?</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px">Interested in Open Source or Humanitarian Projects?</flowPara><flowPara
            id="flowPara12103"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book" /><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px" /><flowPara
            id="flowPara4023"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">   Co-ops</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px">   Co-ops</flowPara><flowPara
            id="flowPara12105"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book" /><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px" /><flowPara
            id="flowPara12107"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">   Summer Research</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px">   Summer Research</flowPara><flowPara
            id="flowPara12109"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book" /><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px" /><flowPara
            id="flowPara12111"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">   Open Source Courses</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px">   Open Source Courses</flowPara><flowPara
            id="flowPara12099"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book" /><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px" /><flowPara
            id="flowPara12113"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Join us in IRC: #rit-foss </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px">Join us in IRC: #rit-foss </flowPara><flowPara
            id="flowPara12115"
-           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">on irc.freenode.net</flowPara><flowPara
-           id="flowPara12101" /></flowRoot>      <g
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-size:54.50803371px">on irc.freenode.net</flowPara><flowPara
+           id="flowPara12101"
+           style="font-size:54.50803371px" /></flowRoot>      <g
          transform="matrix(0.11824262,0,0,0.14334812,1412.8532,-40.668038)"
          id="g12018">
         <path
