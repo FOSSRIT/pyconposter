@@ -74,147 +74,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3996-4"
-       id="linearGradient3878"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2634.5356"
-       y1="1085.0974"
-       x2="-3066.0815"
-       y2="1374.3203" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3880"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2411.7107"
-       y1="1093.1362"
-       x2="-2826.2197"
-       y2="1546.1266" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3882"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2302.2468"
-       y1="915.9801"
-       x2="-1669.4154"
-       y2="1356.5892" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3884"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2169.2854"
-       y1="1112.6324"
-       x2="-1806.4174"
-       y2="1448.5082" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3788-9"
-       id="linearGradient6765"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(14.061374,0,0,14.061374,1281.8848,-2093.1975)"
-       x1="173.5676"
-       y1="150.92776"
-       x2="187.18085"
-       y2="155.57062" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3540"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2634.5356"
-       y1="1085.0974"
-       x2="-3066.0815"
-       y2="1374.3203" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3542"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2411.7107"
-       y1="1093.1362"
-       x2="-2826.2197"
-       y2="1546.1266" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3544"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2302.2468"
-       y1="915.9801"
-       x2="-1669.4154"
-       y2="1356.5892" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3546"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4927.6078,-682.85575)"
-       x1="-2169.2854"
-       y1="1112.6324"
-       x2="-1806.4174"
-       y2="1448.5082" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3788-9"
-       id="linearGradient3548"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(14.061374,0,0,14.061374,1281.8848,-2093.1975)"
-       x1="173.5676"
-       y1="150.92776"
-       x2="187.18085"
-       y2="155.57062" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3788-9"
-       id="linearGradient3563"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6626537,0,0,2.0156715,2892.6797,-388.72401)"
-       x1="173.5676"
-       y1="150.92776"
-       x2="187.18085"
-       y2="155.57062" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3566"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
-       x1="-2169.2854"
-       y1="1112.6324"
-       x2="-1806.4174"
-       y2="1448.5082" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3569"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
-       x1="-2302.2468"
-       y1="915.9801"
-       x2="-1669.4154"
-       y2="1356.5892" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3572"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
-       x1="-2411.7107"
-       y1="1093.1362"
-       x2="-2826.2197"
-       y2="1546.1266" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3575"
+       id="linearGradient3679"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
        x1="-2634.5356"
@@ -224,17 +84,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3996-4"
-       id="linearGradient3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
-       x1="-2634.5356"
-       y1="1085.0974"
-       x2="-3066.0815"
-       y2="1374.3203" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3996-4"
-       id="linearGradient3624"
+       id="linearGradient3681"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
        x1="-2411.7107"
@@ -244,7 +94,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3996-4"
-       id="linearGradient3626"
+       id="linearGradient3683"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
        x1="-2302.2468"
@@ -254,7 +104,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3996-4"
-       id="linearGradient3628"
+       id="linearGradient3685"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.11824262,0,0,0.14334812,3323.7596,-186.55417)"
        x1="-2169.2854"
@@ -264,7 +114,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3788-9"
-       id="linearGradient3630"
+       id="linearGradient3687"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.6626537,0,0,2.0156715,2892.6797,-388.72401)"
        x1="173.5676"
@@ -363,7 +213,8 @@
      id="layer1"
      transform="translate(0,2187.6175)">
     <g
-       id="g3489">
+       id="g3489"
+       transform="translate(-3.9990234e-5,-41.525969)">
       <rect
          ry="47.091724"
          y="-1970.3817"
@@ -373,7 +224,7 @@
          id="rect3761"
          style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <flowRoot
-         transform="matrix(0.65930891,0,0,0.65930891,631.22749,-2061.6598)"
+         transform="matrix(0.65930891,0,0,0.65930891,631.22737,-2061.6598)"
          style="font-size:175.94180298px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowRoot3837"
          xml:space="preserve"><flowRegion
@@ -386,16 +237,16 @@
              id="rect3841" /></flowRegion><flowPara
            id="flowPara3845">Humanitarian Applications with Sugar and Python</flowPara></flowRoot>    </g>
     <rect
-       ry="358.20581"
-       y="-2098.1333"
-       x="89.657959"
-       height="3061.0317"
-       width="4140.6841"
+       ry="362.72775"
+       y="-2117.4543"
+       x="63.522217"
+       height="3099.6736"
+       width="4192.9556"
        id="rect3129"
-       style="fill:none;stroke:#54b948;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#54b948;stroke-width:30.37871552;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <g
        id="g3394"
-       transform="matrix(0.65065469,0,0,0.85845616,74.057434,-377.83963)">
+       transform="matrix(0.65065469,0,0,0.85845616,74.057394,-419.3656)">
       <rect
          ry="163.51239"
          y="-1457.9696"
@@ -482,7 +333,7 @@
     </g>
     <g
        id="g6858"
-       transform="translate(35.063599,0)">
+       transform="translate(35.063559,-41.525969)">
       <rect
          ry="129.04155"
          y="-1629.6031"
@@ -558,7 +409,8 @@
          y="-1171.2792" />
     </g>
     <g
-       id="g3632">
+       id="g3632"
+       transform="translate(-3.9990234e-5,-41.525969)">
       <rect
          ry="129.04155"
          y="-329.80136"
@@ -644,25 +496,25 @@
            d="m 3118.5228,-93.346389 -29.3682,18.914541 0,33.284946 -29.7453,22.77697 0,-9.965175 23.6485,-17.323219 0,-24.773608 -41.5696,27.017666 0,67.208236 59.1212,-50.152576 0,-32.107284 5.9121,-4.374727 0,31.410942 12.0013,-10.188181 z"
            style="fill:#3c9700;fill-opacity:1;stroke:none" />
         <path
-           style="opacity:0.55603452;fill:url(#linearGradient3622);fill-opacity:1;stroke:none"
+           style="opacity:0.55603452;fill:url(#linearGradient3679);fill-opacity:1;stroke:none"
            d="m 2955.7623,15.170431 15.9812,16.868605 0,-118.318191 34.8955,-15.118755 59.7909,30.699463 14.8265,-9.113242 -59.6524,-28.053681 15.1961,-6.55146 59.2366,25.50589 14.8958,-9.141238 -75.3993,-29.649552 -79.7709,31.259409 z"
            id="path4787-0"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccc" />
         <path
-           style="opacity:0.58620689;fill:url(#linearGradient3624);fill-opacity:1;stroke:none"
+           style="opacity:0.58620689;fill:url(#linearGradient3681);fill-opacity:1;stroke:none"
            d="m 3005.3733,-87.651039 -20.6046,9.645192 0,123.763757 46.0961,48.701957 0,-143.334122 20.9002,-12.822933 z m 6.8505,13.480873 13.9413,8.287313 -11.8357,6.593454 0,120.614019 -13.8566,-14.110838 0,-115.33645 z"
            id="path4789-6"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccccccc" />
         <path
-           style="opacity:0.59913791;fill:url(#linearGradient3626);fill-opacity:1;stroke:none"
+           style="opacity:0.59913791;fill:url(#linearGradient3683);fill-opacity:1;stroke:none"
            d="m 3047.4003,-40.278729 32.5166,-21.856245 0,15.616746 -23.4637,16.906377 0,20.4665421 38.1623,-29.9653761 0,-32.885679 20.7742,-13.860831 0,44.296303 -2.5866,2.093858 0,-30.909439 -15.1498,10.968884 0,32.748251 -50.253,42.179166 z"
            id="path4791-4"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccccc" />
         <path
-           style="opacity:0.61206863;fill:url(#linearGradient3628);fill-opacity:1;stroke:none"
+           style="opacity:0.61206863;fill:url(#linearGradient3685);fill-opacity:1;stroke:none"
            d="m 3047.4003,32.378986 32.5166,-28.9863802 0,16.0474782 -23.4637,22.112436 0,19.356362 38.1623,-38.339265 0,-32.2781693 20.7742,-18.4926387 0,43.385627 -2.5866,2.627213 0,-29.420754 -15.1498,14.2948325 0,31.2106705 -50.253,52.949677 z"
            id="path4793-0"
            inkscape:connector-curvature="0"
@@ -676,7 +528,7 @@
            inkscape:connector-curvature="0"
            id="path4905-5"
            d="m 3153.5912,8.1221333 0,-141.5086033 61.6471,0 -6.2274,21.31682 -36.1294,-0.0155 0,45.133817 22.628,-0.146917 -6.5628,21.285174 -16.0652,0.01347 0,54.0923272 z"
-           style="fill:#333333;fill-opacity:1;stroke:url(#linearGradient3630);stroke-width:1.8306725" />
+           style="fill:#333333;fill-opacity:1;stroke:url(#linearGradient3687);stroke-width:1.8306725" />
         <path
            sodipodi:nodetypes="cccsccccsccccc"
            inkscape:connector-curvature="0"
@@ -760,7 +612,8 @@
          y="169.35046" />
     </g>
     <g
-       id="g3463">
+       id="g3463"
+       transform="translate(-3.9990234e-5,-41.525969)">
       <g
          transform="translate(2625.0526,-1347.8018)"
          id="g6738">
@@ -851,9 +704,10 @@
          y="-881.78815" />
     </g>
     <g
-       id="g3391">
+       id="g3391"
+       transform="translate(-3.9990234e-5,-41.525969)">
       <flowRoot
-         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:144px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot3821"
          xml:space="preserve"><flowRegion
            id="flowRegion3823"><rect
@@ -864,7 +718,7 @@
              width="3794.4443"
              id="rect3825" /></flowRegion><flowPara
            id="flowPara3827" /></flowRoot>      <flowRoot
-         style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:144px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot3829"
          xml:space="preserve"><flowRegion
            id="flowRegion3831"><rect
@@ -886,7 +740,7 @@
              x="3138.8889"
              y="2784.4443" /></flowRegion><flowPara
            id="flowPara4031" /></flowRoot>      <flowRoot
-         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:72px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+         style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot3564"
          xml:space="preserve"><flowRegion
            id="flowRegion3566"><rect
@@ -931,11 +785,11 @@
                x="936.36365"
                y="1158.1818"
                style="font-size:56px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book" /></flowRegion><flowPara
-             style="font-size:54.50803371px"
+             style="font-size:54.50803375px"
              id="flowPara3948-4-2-5">One Laptop Per Child is a UN program aimed at providing affordable laptops to developing nations as a way to bolster their education programs.</flowPara><flowPara
-             style="font-size:54.50803371px"
+             style="font-size:54.50803375px"
              id="flowPara4144" /><flowPara
-             style="font-size:54.50803371px"
+             style="font-size:54.50803375px"
              id="flowPara4146">In countries such as Uruguay, every school aged child has their own laptop that they use to complete class assignments.</flowPara></flowRoot>        <image
            y="-1434.501"
            x="2878.4263"
@@ -945,7 +799,7 @@
            width="332.10001" />
       </g>
       <flowRoot
-         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot4152"
          xml:space="preserve"><flowRegion
            id="flowRegion4154"><rect
@@ -955,7 +809,7 @@
              width="622.05371"
              id="rect4156" /></flowRegion><flowPara
            id="flowPara4158" /></flowRoot>      <flowRoot
-         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:URW Gothic L;font-style:normal;font-weight:380;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:URW Gothic L Book;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowRoot3274"
          xml:space="preserve"><flowRegion
            id="flowRegion3276"><rect
@@ -1514,7 +1368,7 @@ RJVTgKCTnGPWnFUBHAzjHSiirIFWPcMjbj3ooooHZH//2Q==
              id="rect3330" /></flowRegion><flowPara
            style="font-size:10.7940588px"
            id="flowPara3332">http://www.flickr.com/photos/titanas/2231750952/</flowPara></flowRoot>      <flowRoot
-         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:URW Gothic L;font-style:normal;font-weight:380;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:URW Gothic L Book;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowRoot3334"
          xml:space="preserve"><flowRegion
            id="flowRegion3336"><rect
@@ -2079,7 +1933,8 @@ bkgCxQjcCSfSoTJcRMUEmB6HmiigdiaK+kVSh4JPX196i3MTweScnNFFWSx7K2cZAxxRRRVWGf/Z
            style="font-size:10.7940588px"
            id="flowPara3332-0">http://www.flickr.com/photos/titanas/2230955367/</flowPara></flowRoot>    </g>
     <g
-       id="g3444">
+       id="g3444"
+       transform="translate(0,-41.525969)">
       <g
          transform="translate(-1267.9455,-48.000049)"
          id="g6665">
