@@ -194,7 +194,7 @@
      id="layer1"
      transform="translate(0,2187.6175)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:22.71286011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3761"
        width="3116.7092"
        height="317.77905"
@@ -253,7 +253,7 @@
        height="3061.0317"
        width="4140.6841"
        id="rect3129"
-       style="fill:none;stroke:#54b948;stroke-width:77.77555084;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#54b948;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3564"
@@ -275,7 +275,7 @@
          height="1397.2877"
          width="1843.8196"
          id="rect3763"
-         style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:35.06511307;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:20.50007058;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <flowRoot
          transform="matrix(1.5103139,0,0,1.5103139,383.9497,-2923.6089)"
          style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
@@ -352,7 +352,7 @@
          y="-763.35529" />
     </g>
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:22.01510429;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3763-3-1"
        width="1200"
        height="1200"
@@ -429,7 +429,7 @@
        height="201.19066"
        width="165.95482" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:25.13304901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3763-3"
        width="1200"
        height="1200"
@@ -488,7 +488,7 @@
        height="302.99796"
        width="333.24258" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:25.65481758;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3763-3-5"
        width="1200"
        height="1200"
@@ -677,7 +677,7 @@
        height="201.19064"
        width="165.9548" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:22.01510239;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3763-0"
        width="1200"
        height="1200"
@@ -736,7 +736,7 @@
        height="201.14999"
        width="201.14999" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:22.01510429;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#54b948;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3763-3-1-4"
        width="1200"
        height="1200"
