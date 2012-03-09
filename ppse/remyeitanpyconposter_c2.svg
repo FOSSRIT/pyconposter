@@ -15,7 +15,7 @@
    height="3240"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="remyeitanpyconposter_c2.svg">
   <defs
      id="defs4">
@@ -479,18 +479,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1473.031"
-     inkscape:cy="2055.9057"
+     inkscape:zoom="0.5"
+     inkscape:cx="1026.569"
+     inkscape:cy="1293.449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1429"
-     inkscape:window-height="841"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
      inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -1047,11 +1047,13 @@
            x="931.42859"
            y="917.14288" /></flowRegion><flowPara
          id="flowPara3169"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Kickstart files are a customizable list of programs and applications to </flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Kickstart files contain a customizable list of programs and applications </flowPara><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara5293">install on a spin/remix. Customizations can range from setting the </flowPara><flowPara
+         id="flowPara5293">to install on a spin/remix. Further customizations can range from setting </flowPara><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara5295">default wallpaper and aesthetics, to customizing the settings of various applications, to even changing the user's home environment.</flowPara><flowPara
+         id="flowPara5295">the default wallpaper and aesthetics, to customizing the settings of </flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3277">various applications, to even changing the user's home environment.</flowPara><flowPara
          id="flowPara3171"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
          id="flowPara3173"
