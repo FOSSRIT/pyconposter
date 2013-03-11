@@ -24,14 +24,14 @@
 </g>
 <g>
 	<rect x="39.862" y="337.93" fill="none" width="193.104" height="43.104"/>
-	<text transform="matrix(1 0 0 1 98.6997 351.4199)" fill="#F5F5F5" font-family="'MyriadPro-Regular'" font-size="19">Tolkenize</text>
+	<text transform="matrix(1 0 0 1 82.3882 357.4785)" fill="#F5F5F5" font-family="'VDS'" font-size="27">Tolkenize</text>
 </g>
 <g>
-	<rect x="295.034" y="338.793" fill="none" width="189.655" height="37.931"/>
-	<text transform="matrix(1 0 0 1 368.6011 352.2822)" fill="#F5F5F5" font-family="'MyriadPro-Regular'" font-size="19">Parse</text>
+	<rect x="301.068" y="337.932" fill="none" width="189.655" height="37.931"/>
+	<text transform="matrix(1 0 0 1 363.9287 357.4795)" fill="#F5F5F5" font-family="'VDS'" font-size="27">Parse</text>
 </g>
 <g>
-	<rect x="561.414" y="340.517" fill="none" width="187.068" height="40.517"/>
-	<text transform="matrix(1 0 0 1 625.623 354.0059)" fill="#F5F5F5" font-family="'MyriadPro-Regular'" font-size="19">Classify</text>
+	<rect x="560.552" y="337.93" fill="none" width="187.068" height="40.517"/>
+	<text transform="matrix(1 0 0 1 610.0762 357.4775)" fill="#F5F5F5" font-family="'VDS'" font-size="27">Classify</text>
 </g>
 </svg>
