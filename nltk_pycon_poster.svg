@@ -533,7 +533,7 @@
          id="flowPara3205"
          style="font-size:40px" /></flowRoot>    <g
        id="g3250"
-       transform="translate(-125.04295,552)">
+       transform="translate(-379.24215,552)">
       <flowRoot
          transform="translate(2736.9785,-1627.2912)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -542,12 +542,12 @@
            id="flowRegion3047"><rect
              y="317.14285"
              x="58.57143"
-             height="460.22824"
-             width="1501.6715"
+             height="570.97546"
+             width="1470.7653"
              id="rect3049"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3457">The setting: A few thousand emails were sent to a school district in the summer of 2012.</flowPara><flowPara
+           id="flowPara3457">The setting: A few thousand emails were sent to a school district in the summer of 2012 following an incident involving some of their students.</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3521" /><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
@@ -558,6 +558,10 @@
            id="flowPara3530">Problems</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3377">* Data started life as an Access database</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3632">* Many emails pointed to youtube videos of the incident, which confuse NLTK</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3634">* </flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3379" /></flowRoot>      <flowRoot
          transform="translate(1976.9785,-1753.8477)"
@@ -579,7 +583,7 @@
            id="flowPara3077-7-9" /></flowRoot>    </g>
     <g
        id="g3236"
-       transform="translate(-2097.043,-128)">
+       transform="translate(-2351.2422,-128)">
       <flowRoot
          transform="translate(1976.9785,-981.90006)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -609,7 +613,7 @@
            id="flowPara3077-7-9-0">Tweet stuff</flowPara></flowRoot>    </g>
     <g
        id="g3205"
-       transform="translate(40.845059,-142.51813)">
+       transform="translate(28.320401,-142.51813)">
       <flowRoot
          transform="translate(1579.2598,-322.31923)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -641,7 +645,7 @@
            id="flowPara3077-7-9-0-1">2) Tokens are parsed for meaning</flowPara></flowRoot>    </g>
     <g
        id="g3219"
-       transform="translate(-13.207675,-82.86899)">
+       transform="translate(-25.4733,-82.86899)">
       <flowRoot
          transform="translate(2352.8216,-359.96749)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -661,7 +665,7 @@
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
            id="flowPara3513">&gt;&gt;&gt; classifier = nltk.NaiveBayesClassifier.train(training_set)</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-           id="flowPara3515">&gt;&gt;&gt; classifier.show_most_informative_features(10)</flowPara></flowRoot>      <flowRoot
+           id="flowPara3515">&gt;&gt;&gt; classifier.show_most_informative_features(2)</flowPara></flowRoot>      <flowRoot
          transform="translate(2312.9785,-288.56391)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowRoot3065-9-7-6-3-7-3"
@@ -677,7 +681,7 @@
            id="flowPara3077-7-9-0-1-5-2">3) Classification</flowPara></flowRoot>    </g>
     <g
        id="g3271"
-       transform="translate(1262.5938,-232.20045)">
+       transform="translate(322.9863,-232.20045)">
       <flowRoot
          transform="translate(77.5625,-2210.0783)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -713,7 +717,7 @@
            id="flowPara3077-7-9-0-1-5-8">What is NLTK?</flowPara></flowRoot>    </g>
     <g
        id="g3192"
-       transform="translate(2.792325,-56)">
+       transform="translate(-9.4733,-56)">
       <flowRoot
          transform="translate(-811.4375,-812.07115)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -774,5 +778,66 @@
            x="628"
            y="108" /></flowRegion><flowPara
          id="flowPara3220"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Retrieving Meaning from Words</flowPara></flowRoot>  </g>
+         style="font-size:144px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Retrieving Meaning from Words</flowPara></flowRoot>    <g
+       id="g3271-2"
+       transform="translate(2295.0567,-232.20045)">
+      <flowRoot
+         transform="translate(77.5625,-2210.0783)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3111-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3113-7"><rect
+             y="870"
+             x="41.42857"
+             height="534.70044"
+             width="1617.6633"
+             id="rect3115-1"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3129-7"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3616">Tokenizing</flowSpan>: Taking a string of words and splitting them into individual words or tokens.</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3606"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3618">Tagging</flowSpan>: Taking a token in the context of the sentence to find the part of speech it is (verb, noun, preposition, etc.)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3642"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3648">Stemming</flowSpan>: Taking the stem, or root of a word by cutting the end off until a common prefix is found.</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3644"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3646">Lemmatization</flowSpan>: Taking known different forms of a word and treating them as the same word.</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3636">Classification<flowSpan
+   style="font-weight:normal"
+   id="flowSpan3622">: A process of training and applying a set of rules to a dataset so that a decision may be reached about their content.</flowSpan></flowPara></flowRoot>      <flowRoot
+         transform="translate(-699.5625,-1771.2325)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3065-9-7-6-3-7-31-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3067-4-0-2-9-7-0-6"><rect
+             y="340"
+             x="818.57141"
+             height="371.14285"
+             width="1637.4286"
+             id="rect3069-9-1-2-3-1-7-6"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3077-7-9-0-1-5-8-3">What does that mean?</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3608"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       transform="translate(0,-2187.641)"><flowRegion
+         id="flowRegion3610"><rect
+           id="rect3612"
+           width="3955.9937"
+           height="149.37997"
+           x="169.9841"
+           y="345.11923"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3614"
+         style="font-size:64px">'skdja'sdkgjaksgd</flowPara></flowRoot>  </g>
 </svg>
