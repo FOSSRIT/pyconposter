@@ -1,0 +1,8 @@
+>>> nltk.word_tokenize('NLTK is pretty awesome.')
+['NLTK', 'is', 'pretty', 'awesome', '.']
+>>> nltk.pos_tag(_)
+[('NLTK', 'NN'), ('is', 'VBZ'), ('pretty', 'RB'), ('awesome', 'RB'), ('.', '.')]
+
+
+>>> classifier = nltk.NaiveBayesClassifier.train(training_set)
+>>> classifier.show_most_informative_features(2)
