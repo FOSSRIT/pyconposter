@@ -201,9 +201,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1763.8543"
-     inkscape:cy="1328.5539"
+     inkscape:zoom="0.20212489"
+     inkscape:cx="2171.5325"
+     inkscape:cy="1617.1625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -451,7 +451,7 @@
            sodipodi:role="line"
            id="tspan3751"
            x="1726.4359"
-           y="826.20911">RIT REMIXERATOR</tspan></text>
+           y="826.20911">NLTK</tspan></text>
       <flowRoot
          transform="matrix(1.3203869,0,0,1.3692005,1721.4367,797.08703)"
          style="font-size:30.32806778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -464,10 +464,8 @@
              width="2062.3403"
              id="rect3005"
              style="font-size:30.32806778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-           id="flowPara3019"
-           style="font-size:30.32806778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">The RIT Remixerator[0] is an open source project that provides a web-based interface to creating custom Fedora Remixes. </flowPara><flowPara
            id="flowPara3212"
-           style="font-size:30.32806778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">This project was a fork of the Dorrie project[1], which leverages Django[2], and several python libraries.</flowPara><flowPara
+           style="font-size:30.32806778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">NLTK[0] is a leading platform for building Python programs to work with human language data.</flowPara><flowPara
            style="font-size:30.32806778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3009" /><flowPara
            style="font-size:30.32806778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
@@ -511,7 +509,7 @@
          id="flowPara3191"
          style="font-size:40px">Links:</flowPara><flowPara
          id="flowPara3193"
-         style="font-size:40px">[1]:    http://fedorahosted.org/dorrie</flowPara><flowPara
+         style="font-size:40px">[1]:    http://nltk.org</flowPara><flowPara
          id="flowPara3195"
          style="font-size:40px">[2]:    https://www.djangoproject.com/</flowPara><flowPara
          style="font-size:40px"
@@ -535,7 +533,7 @@
          id="flowPara3205"
          style="font-size:40px" /></flowRoot>    <g
        id="g3250"
-       transform="translate(-384.8535,552)">
+       transform="translate(-125.04295,552)">
       <flowRoot
          transform="translate(2736.9785,-1627.2912)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -549,13 +547,13 @@
              id="rect3049"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3063">the task: take a few thousand emails and try to figure out what they look like</flowPara><flowPara
+           id="flowPara3457">The Task: A few thousand emails were sent to a</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3365"></flowPara><flowPara
+           id="flowPara3365" /><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3367">the flow:</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3369"></flowPara><flowPara
+           id="flowPara3369" /><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3371">#. Move raw data from Access DB to CSV</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
@@ -585,7 +583,7 @@
            id="flowPara3077-7-9" /></flowRoot>    </g>
     <g
        id="g3236"
-       transform="translate(-2356.8535,-128)">
+       transform="translate(-2097.043,-128)">
       <flowRoot
          transform="translate(1976.9785,-981.90006)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -615,7 +613,7 @@
            id="flowPara3077-7-9-0">Tweet stuff</flowPara></flowRoot>    </g>
     <g
        id="g3205"
-       transform="translate(34.052734,-86.51813)">
+       transform="translate(40.845059,-142.51813)">
       <flowRoot
          transform="translate(1579.2598,-322.31923)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -647,7 +645,7 @@
            id="flowPara3077-7-9-0-1">2) Tokens are parsed for meaning</flowPara></flowRoot>    </g>
     <g
        id="g3219"
-       transform="translate(-20,-26.86899)">
+       transform="translate(-13.207675,-82.86899)">
       <flowRoot
          transform="translate(2352.8216,-359.96749)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -661,9 +659,13 @@
              id="rect3099"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3109">These tagged tokens can be run through any number of NLTK functions to extract meaning</flowPara><flowPara
+           id="flowPara3455">NLTK includes classifiers and other learning algorithms to make sense of your data</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3455" /></flowRoot>      <flowRoot
+           id="flowPara3509" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+           id="flowPara3513">&gt;&gt;&gt; classifier = nltk.NaiveBayesClassifier.train(training_set)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+           id="flowPara3515">&gt;&gt;&gt; classifier.show_most_informative_features(10)</flowPara></flowRoot>      <flowRoot
          transform="translate(2312.9785,-288.56391)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowRoot3065-9-7-6-3-7-3"
@@ -679,7 +681,7 @@
            id="flowPara3077-7-9-0-1-5-2">3) Classification</flowPara></flowRoot>    </g>
     <g
        id="g3271"
-       transform="translate(1261.7539,-232.20045)">
+       transform="translate(1262.5938,-232.20045)">
       <flowRoot
          transform="translate(77.5625,-2210.0783)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -689,11 +691,11 @@
              y="870"
              x="41.42857"
              height="363.42859"
-             width="1659.7142"
+             width="1559.7142"
              id="rect3115"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3123">NLTK is a library for parsing and understanding natural language with Python.</flowPara><flowPara
+           id="flowPara3123">NLTK[0] is a library for parsing and understanding natural language with Python.</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3125" /><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
@@ -715,7 +717,7 @@
            id="flowPara3077-7-9-0-1-5-8">What is NLTK?</flowPara></flowRoot>    </g>
     <g
        id="g3192"
-       transform="translate(-4,0)">
+       transform="translate(2.792325,-56)">
       <flowRoot
          transform="translate(-811.4375,-812.07115)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -724,14 +726,34 @@
            id="flowRegion3161"><rect
              y="917.14288"
              x="931.42859"
-             height="353.99994"
-             width="1384.5714"
+             height="498.56149"
+             width="1395.5508"
              id="rect3163"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3175">The first step is to take a block of text and split it into atomic tokens of words</flowPara><flowPara
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3390" /></flowRoot>      <flowRoot
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Terminal"
+           id="flowPara3175">The first step is to take a block of text and split it into atomic tokens of words. These tokens may then be analyzed for which part of speech they belong to.  This produces a list of tuples containing (token, tag)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Terminal"
+           id="flowPara3390" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+           id="flowPara3483">&gt;&gt;&gt; nltk.word_tokenize('NLTK is pretty awesome.')</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+           id="flowPara3485">['NLTK', 'is', 'pretty', 'awesome', '.']</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+           id="flowPara3487">&gt;&gt;&gt; nltk.pos_tag(_)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+           id="flowPara3505">[('NLTK', 'NN'), ('is', 'VBZ'), ('pretty', 'RB'), ('awesome', 'RB'), ('.', '.')]</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+           id="flowPara3489" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Terminal"
+           id="flowPara3493" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Terminal"
+           id="flowPara3495" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Terminal"
+           id="flowPara3497" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Terminal"
+           id="flowPara3499" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Terminal"
+           id="flowPara3501" /></flowRoot>      <flowRoot
          transform="translate(16,-1727.4329)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot3309"
