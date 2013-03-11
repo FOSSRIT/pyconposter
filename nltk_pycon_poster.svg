@@ -542,12 +542,12 @@
            id="flowRegion3047"><rect
              y="317.14285"
              x="58.57143"
-             height="460.22824"
-             width="1501.6715"
+             height="570.97546"
+             width="1470.7653"
              id="rect3049"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3457">The setting: A few thousand emails were sent to a school district in the summer of 2012.</flowPara><flowPara
+           id="flowPara3457">The setting: A few thousand emails were sent to a school district in the summer of 2012 following an incident involving some of their students.</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3521" /><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
@@ -558,6 +558,10 @@
            id="flowPara3530">Problems</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3377">* Data started life as an Access database</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3632">* Many emails pointed to youtube videos of the incident, which confuse NLTK</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3634">* </flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3379" /></flowRoot>      <flowRoot
          transform="translate(1976.9785,-1753.8477)"
@@ -661,7 +665,7 @@
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
            id="flowPara3513">&gt;&gt;&gt; classifier = nltk.NaiveBayesClassifier.train(training_set)</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-           id="flowPara3515">&gt;&gt;&gt; classifier.show_most_informative_features(10)</flowPara></flowRoot>      <flowRoot
+           id="flowPara3515">&gt;&gt;&gt; classifier.show_most_informative_features(2)</flowPara></flowRoot>      <flowRoot
          transform="translate(2312.9785,-288.56391)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowRoot3065-9-7-6-3-7-3"
