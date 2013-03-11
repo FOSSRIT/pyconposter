@@ -787,8 +787,8 @@
            id="flowRegion3113"><rect
              y="870"
              x="41.42857"
-             height="363.42859"
-             width="1559.7142"
+             height="292.95227"
+             width="1680.5309"
              id="rect3115"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
@@ -798,7 +798,7 @@
    style="font-weight:bold"
    id="flowSpan4451">tokenizing</flowSpan> the text, then <flowSpan
    style="font-weight:bold"
-   id="flowSpan4457">parsing<flowSpan
+   id="flowSpan9092">simplifying<flowSpan
    style="font-weight:normal"
    id="flowSpan4463"> it, and finally </flowSpan>classifying</flowSpan> the resulting data with machine learning algorithms.</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
