@@ -1,37 +1,161 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
-<rect x="291.587" y="312.068" fill="#737577" width="200.862" height="69.828"/>
-<rect x="554.518" y="311.207" fill="#737577" width="200.861" height="69.826"/>
-<rect x="35.553" y="311.207" fill="#737577" width="200.861" height="69.826"/>
-<g>
-	<g>
-		<line fill="none" stroke="#48484A" stroke-miterlimit="10" x1="245.896" y1="347.413" x2="271.479" y2="347.413"/>
-		<g>
-			<polygon fill="#48484A" points="270.02,352.371 278.655,347.386 270.02,342.399 			"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="792px"
+   height="612px"
+   viewBox="0 0 792 612"
+   enable-background="new 0 0 792 612"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="NLTKFlowchart.svg"><metadata
+   id="metadata51"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs49" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="697"
+   id="namedview47"
+   showgrid="false"
+   inkscape:zoom="1.0907007"
+   inkscape:cx="66.987503"
+   inkscape:cy="333.44202"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<rect
+   x="291.587"
+   y="312.068"
+   fill="#737577"
+   width="200.862"
+   height="69.828"
+   id="rect3" />
+<rect
+   x="554.518"
+   y="311.207"
+   fill="#737577"
+   width="200.861"
+   height="69.826"
+   id="rect5" />
+<rect
+   x="35.553"
+   y="311.207"
+   fill="#737577"
+   width="200.861"
+   height="69.826"
+   id="rect7" />
+<g
+   id="g9">
+	<g
+   id="g11">
+		<line
+   fill="none"
+   stroke="#48484A"
+   stroke-miterlimit="10"
+   x1="245.896"
+   y1="347.413"
+   x2="271.479"
+   y2="347.413"
+   id="line13" />
+		<g
+   id="g15">
+			<polygon
+   fill="#48484A"
+   points="270.02,352.371 278.655,347.386 270.02,342.399    "
+   id="polygon17" />
 		</g>
 	</g>
 </g>
-<g>
-	<g>
-		<line fill="none" stroke="#48484A" stroke-miterlimit="10" x1="507.965" y1="349.137" x2="533.549" y2="349.137"/>
-		<g>
-			<polygon fill="#48484A" points="532.09,354.096 540.725,349.109 532.09,344.123 			"/>
+<g
+   id="g19">
+	<g
+   id="g21">
+		<line
+   fill="none"
+   stroke="#48484A"
+   stroke-miterlimit="10"
+   x1="507.965"
+   y1="349.137"
+   x2="533.549"
+   y2="349.137"
+   id="line23" />
+		<g
+   id="g25">
+			<polygon
+   fill="#48484A"
+   points="532.09,354.096 540.725,349.109 532.09,344.123    "
+   id="polygon27" />
 		</g>
 	</g>
 </g>
-<g>
-	<rect x="39.862" y="337.93" fill="none" width="193.104" height="43.104"/>
-	<text transform="matrix(1 0 0 1 82.3882 357.4785)" fill="#F5F5F5" font-family="'VDS'" font-size="27">Tolkenize</text>
+<g
+   id="g29">
+	<rect
+   x="39.862"
+   y="337.93"
+   fill="none"
+   width="193.104"
+   height="43.104"
+   id="rect31" />
+	<text
+   transform="translate(82.3882,357.4785)"
+   font-size="27"
+   id="text33"
+   style="font-size:27px;fill:#f5f5f5;font-family:VDS">Tokenize</text>
+
 </g>
-<g>
-	<rect x="301.068" y="337.932" fill="none" width="189.655" height="37.931"/>
-	<text transform="matrix(1 0 0 1 363.9287 357.4795)" fill="#F5F5F5" font-family="'VDS'" font-size="27">Parse</text>
+<g
+   id="g35">
+	<rect
+   x="301.068"
+   y="337.932"
+   fill="none"
+   width="189.655"
+   height="37.931"
+   id="rect37" />
+	<text
+   transform="matrix(1 0 0 1 363.9287 357.4795)"
+   fill="#F5F5F5"
+   font-family="'VDS'"
+   font-size="27"
+   id="text39">Parse</text>
+
 </g>
-<g>
-	<rect x="560.552" y="337.93" fill="none" width="187.068" height="40.517"/>
-	<text transform="matrix(1 0 0 1 610.0762 357.4775)" fill="#F5F5F5" font-family="'VDS'" font-size="27">Classify</text>
+<g
+   id="g41">
+	<rect
+   x="560.552"
+   y="337.93"
+   fill="none"
+   width="187.068"
+   height="40.517"
+   id="rect43" />
+	<text
+   transform="matrix(1 0 0 1 610.0762 357.4775)"
+   fill="#F5F5F5"
+   font-family="'VDS'"
+   font-size="27"
+   id="text45">Classify</text>
+
 </g>
 </svg>
