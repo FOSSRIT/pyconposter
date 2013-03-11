@@ -174,7 +174,7 @@
        xlink:href="#linearGradient3788"
        id="linearGradient3229"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8707302,0,0,2.8707302,953.41526,266.53449)"
+       gradientTransform="matrix(2.8707302,0,0,2.8707302,3606.4799,-2505.3241)"
        x1="173.5676"
        y1="150.92776"
        x2="187.18085"
@@ -184,7 +184,7 @@
        xlink:href="#linearGradient3996"
        id="linearGradient3262"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.23305394,0,0,0.23305394,1704.0883,512.90723)"
+       gradientTransform="matrix(0.23305394,0,0,0.23305394,742.42308,-2258.9514)"
        x1="-2169.2854"
        y1="1112.6324"
        x2="-1806.4174"
@@ -194,7 +194,7 @@
        xlink:href="#linearGradient3996"
        id="linearGradient3265"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.23305394,0,0,0.23305394,1704.0883,512.90723)"
+       gradientTransform="matrix(0.23305394,0,0,0.23305394,742.42308,-2258.9514)"
        x1="-2302.2468"
        y1="915.9801"
        x2="-1669.4154"
@@ -204,7 +204,7 @@
        xlink:href="#linearGradient3996"
        id="linearGradient3268"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.23305394,0,0,0.23305394,1704.0883,512.90723)"
+       gradientTransform="matrix(0.23305394,0,0,0.23305394,742.42308,-2258.9514)"
        x1="-2411.7107"
        y1="1093.1362"
        x2="-2826.2197"
@@ -214,7 +214,7 @@
        xlink:href="#linearGradient3996"
        id="linearGradient3271"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.23305394,0,0,0.23305394,1704.0883,512.90723)"
+       gradientTransform="matrix(0.23305394,0,0,0.23305394,742.42308,-2258.9514)"
        x1="-2634.5356"
        y1="1085.0974"
        x2="-3066.0815"
@@ -1526,20 +1526,45 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.13542006"
-     inkscape:cx="2989.6529"
-     inkscape:cy="1612.9346"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="2235.0896"
+     inkscape:cy="1658.1894"
      inkscape:document-units="px"
-     inkscape:current-layer="g3006"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1280"
-     inkscape:window-height="773"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
      inkscape:window-x="0"
-     inkscape:window-y="-1"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,4320"
+       id="guide3652" />
+    <sodipodi:guide
+       position="4320,0"
+       orientation="-3240,0"
+       id="guide3654" />
+    <sodipodi:guide
+       position="4320,3240"
+       orientation="0,-4320"
+       id="guide3656" />
+    <sodipodi:guide
+       position="0,3240"
+       orientation="3240,0"
+       id="guide3658" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="113.13708,2409.8199"
+       id="guide3660" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1238.8511,2138.2909"
+       id="guide3662" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1588,19 +1613,19 @@
            id="rect3839-0" /></flowRegion><flowPara
          id="flowPara3841-8" /></flowRoot>    <path
        style="fill:#333333;fill-opacity:1;stroke:none"
-       d="m 972.81507,840.27833 0,-183.8519 163.18473,-51.9933 163.5708,51.9851 -47.1208,24.6675 -116.45,-42.8826 -9.9448,4.4061 115.6313,43.9612 -47.3391,24.5907 -117.0535,-51.1841 -57.3935,21.0726 -0.2219,200.5017 c 0,0 -35.04533,-30.8787 -46.86323,-41.273 z"
+       d="m 11.149848,-1931.5803 0,-183.8519 163.184732,-51.9933 163.5708,51.9851 -47.1208,24.6675 -116.45,-42.8826 -9.9448,4.4061 115.6313,43.9612 -47.3391,24.5907 -117.0535,-51.1841 -57.393502,21.0726 -0.2219,200.5017 c 0,0 -35.04533,-30.8787 -46.86323,-41.273 z"
        id="path4779"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
     <path
        style="fill:#333333;stroke:none"
-       d="m 1076.3277,668.83983 -45.3218,17.9524 0,204.8034 104.9939,92.1484 0,-242.1987 47.0622,-24.4488 z m 11.6813,36.5875 13.3304,6.6132 -11.6259,5.3983 0,182.7425 -13.3894,-10.878 0,-178.9048 z"
+       d="m 114.66248,-2103.0188 -45.321802,17.9524 0,204.8034 104.993902,92.1484 0,-242.1987 47.0622,-24.4488 z m 11.6813,36.5875 13.3304,6.6132 -11.6259,5.3983 0,182.7425 -13.3894,-10.878 0,-178.9048 z"
        id="path4781"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccc" />
     <path
        style="fill:#3c9700;fill-opacity:1;stroke:none"
-       d="m 1299.5706,757.25103 -57.8843,41.3998 0,53.2771 -58.6274,47.4892 0,-14.6585 46.6107,-36.5221 0,-40.7518 -81.9328,58.9804 0,107.3409 116.7485,-102.625 -0.2218,-50.4105 11.6527,-9.209 0,49.385 23.6544,-20.555 z"
+       d="m 337.90538,-2014.6076 -57.8843,41.3998 0,53.2771 -58.6274,47.4892 0,-14.6585 46.6107,-36.5221 0,-40.7518 -81.9328,58.9804 0,107.3409 116.7485,-102.625 -0.2218,-50.4105 11.6527,-9.209 0,49.385 23.6544,-20.555 z"
        id="path4783"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
@@ -1608,29 +1633,29 @@
        sodipodi:nodetypes="ccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path4785"
-       d="m 1299.5706,664.44353 -57.8843,30.7511 0,54.1143 -58.6274,37.0306 0,-16.2013 46.6107,-28.1639 0,-40.2767 -81.9328,43.9251 0,109.2664 116.5267,-81.5375 0,-52.1997 11.6527,-7.1124 0,51.0676 23.6544,-16.5639 z"
+       d="m 337.90538,-2107.4151 -57.8843,30.7511 0,54.1143 -58.6274,37.0306 0,-16.2013 46.6107,-28.1639 0,-40.2767 -81.9328,43.9251 0,109.2664 116.5267,-81.5375 0,-52.1997 11.6527,-7.1124 0,51.0676 23.6544,-16.5639 z"
        style="fill:#3c9700;fill-opacity:1;stroke:none" />
     <path
        style="opacity:0.55603452;fill:url(#linearGradient3271);fill-opacity:1;stroke:none"
-       d="m 978.77267,840.86913 31.49863,27.4248 0,-192.3605 68.7784,-24.58 117.8468,49.9109 29.2227,-14.8162 -117.5737,-45.6094 29.9511,-10.6513 116.7541,41.4672 29.3596,-14.8617 -148.6105,-48.204 -157.22713,50.8213 z"
+       d="m 17.107448,-1930.9895 31.49863,27.4248 0,-192.3605 68.778402,-24.58 117.8468,49.9109 29.2227,-14.8162 -117.5737,-45.6094 29.9511,-10.6513 116.7541,41.4672 29.3596,-14.8617 -148.6105,-48.204 -157.227132,50.8213 z"
        id="path4787"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
     <path
        style="opacity:0.58620689;fill:url(#linearGradient3268);fill-opacity:1;stroke:none"
-       d="m 1076.555,673.70303 -40.6112,15.681 0,201.2139 90.8545,79.1791 0,-233.0311 41.194,-20.8474 z m 13.5023,21.917 27.4781,13.4735 -23.328,10.7195 0,196.0931 -27.3112,-22.9413 0,-187.5128 z"
+       d="m 114.88978,-2098.1556 -40.611202,15.681 0,201.2139 90.854502,79.1791 0,-233.0311 41.194,-20.8474 z m 13.5023,21.917 27.4781,13.4735 -23.328,10.7195 0,196.0931 -27.3112,-22.9413 0,-187.5128 z"
        id="path4789"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccc" />
     <path
        style="opacity:0.59913791;fill:url(#linearGradient3265);fill-opacity:1;stroke:none"
-       d="m 1159.3895,750.72043 64.0896,-35.5337 0,25.3896 -46.2465,27.4862 0,33.2743 75.2172,-48.7174 0,-53.4652 40.9456,-22.5348 0,72.0165 -5.0982,3.4041 0,-50.2522 -29.86,17.8331 0,53.2417 -99.0477,68.5745 z"
+       d="m 197.72428,-2021.1382 64.0896,-35.5337 0,25.3896 -46.2465,27.4862 0,33.2743 75.2172,-48.7174 0,-53.4652 40.9456,-22.5348 0,72.0165 -5.0982,3.4041 0,-50.2522 -29.86,17.8331 0,53.2417 -99.0477,68.5745 z"
        id="path4791"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
     <path
        style="opacity:0.61206863;fill:url(#linearGradient3262);fill-opacity:1;stroke:none"
-       d="m 1159.3895,868.84663 64.0896,-47.1258 0,26.0898 -46.2465,35.9502 0,31.4694 75.2172,-62.3316 0,-52.4775 40.9456,-30.0652 0,70.5359 -5.0982,4.2713 0,-47.8319 -29.86,23.2404 0,50.742 -99.0477,86.085 z"
+       d="m 197.72428,-1903.012 64.0896,-47.1258 0,26.0898 -46.2465,35.9502 0,31.4694 75.2172,-62.3316 0,-52.4775 40.9456,-30.0652 0,70.5359 -5.0982,4.2713 0,-47.8319 -29.86,23.2404 0,50.742 -99.0477,86.085 z"
        id="path4793"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
@@ -1649,79 +1674,79 @@
        sodipodi:nodetypes="ccccccccccc"
        inkscape:connector-curvature="0"
        id="path4905"
-       d="m 1403.9039,831.72495 0,-201.53733 106.4397,0 -10.7524,30.35957 -62.3805,-0.0221 0,64.27982 39.0689,-0.20926 -11.3307,30.31444 -27.7382,0.0193 0,77.03869 z"
+       d="m 4056.9685,-1940.1336 0,-201.5374 106.4397,0 -10.7524,30.3596 -62.3805,-0.022 0,64.2798 39.0689,-0.2092 -11.3307,30.3144 -27.7382,0.019 0,77.0387 z"
        style="fill:#333333;fill-opacity:1;stroke:url(#linearGradient3229);stroke-width:2.87072945" />
     <path
        sodipodi:nodetypes="cccsccccsccccc"
        inkscape:connector-curvature="0"
        id="path4907"
-       d="m 1498.7209,754.95309 11.0561,-30.37606 52.0686,-0.19682 c 0,0 34.6856,1.80866 34.6856,-30.76097 0,-35.42845 -39.5644,-33.20072 -39.5644,-33.20072 l -23.8385,0 11.0028,-30.23109 22.2755,0 c 0,0 64.8268,0.42119 64.7043,63.43125 -0.106,54.52116 -52.1873,60.14295 -52.1873,60.14295 l 53.5661,77.96313 -38.823,0 -54.5203,-76.79626 z"
+       d="m 4151.7855,-2016.9055 11.0561,-30.3761 52.0686,-0.1968 c 0,0 34.6856,1.8087 34.6856,-30.7609 0,-35.4285 -39.5644,-33.2008 -39.5644,-33.2008 l -23.8385,0 11.0028,-30.2311 22.2755,0 c 0,0 64.8268,0.4212 64.7043,63.4313 -0.106,54.5212 -52.1873,60.1429 -52.1873,60.1429 l 53.5661,77.9632 -38.823,0 -54.5203,-76.7963 z"
        style="fill:#3c9700;fill-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4909"
-       d="m 1403.5051,885.20773 0,-31.98449 225.5574,0.0755 0,31.98641 z"
+       d="m 4056.5697,-1886.6509 0,-31.9844 225.5574,0.075 0,31.9864 z"
        style="fill:#333333;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="cccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path4911"
        style="font-size:12.21367931px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:Douar;-inkscape-font-specification:Douar Medium"
-       d="m 1427.8907,894.44202 -22.4496,-0.18504 m -0.8879,-0.20723 0.5886,-0.58836 23.1735,0 0.5563,0.58836 0,4.64133 -0.5563,0.58837 -17.9438,0 0,3.46469 10.9816,0 0.5885,0.55576 0,4.64133 -0.5885,0.55566 -10.9816,0 0,8.72709 -0.5886,0.55566 -4.6411,0 -0.5886,-0.55566 0,-23.17423" />
+       d="m 4080.9553,-1877.4166 -22.4496,-0.185 m -0.8879,-0.2072 0.5886,-0.5884 23.1735,0 0.5563,0.5884 0,4.6413 -0.5563,0.5884 -17.9438,0 0,3.4647 10.9816,0 0.5885,0.5557 0,4.6413 -0.5885,0.5557 -10.9816,0 0,8.7271 -0.5886,0.5557 -4.6411,0 -0.5886,-0.5557 0,-23.1742" />
     <path
        sodipodi:nodetypes="ccscccsscsscccccscccssccssccc"
        inkscape:connector-curvature="0"
        id="path4913"
        style="font-size:12.21367931px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:Douar;-inkscape-font-specification:Douar Medium"
-       d="m 1455.0541,912.52656 0.5886,-0.55567 16.2113,0 c 0.4798,0 0.8943,-0.17426 1.2434,-0.52297 0.3481,-0.3487 0.5222,-0.76272 0.5222,-1.24212 0,-0.4794 -0.1741,-0.89341 -0.5222,-1.24212 -0.3491,-0.34853 -0.7636,-0.52287 -1.2434,-0.52287 l -9.2501,0 c -2.0908,0 -3.8785,-0.73003 -5.3595,-2.18998 -1.4599,-1.45994 -2.1903,-3.22503 -2.1903,-5.29508 0,-2.09197 0.7304,-3.86784 2.1903,-5.32788 1.481,-1.48168 3.2687,-2.22257 5.3595,-2.22266 l 16.2132,0 0.5554,0.58845 0,4.64142 -0.5554,0.58827 -16.2132,0 c -0.4789,0 -0.8925,0.17427 -1.2416,0.52297 -0.3269,0.32688 -0.4899,0.73002 -0.4899,1.20943 0,0.47931 0.1639,0.89341 0.4899,1.24194 0.3491,0.32697 0.7627,0.49036 1.2416,0.49036 l 9.2501,0 c 2.0926,0 3.8684,0.74088 5.3282,2.22266 1.4599,1.45996 2.1903,3.22495 2.1903,5.29509 0,2.09187 -0.7304,3.86783 -2.1903,5.32779 -1.4598,1.45995 -3.2356,2.18996 -5.3282,2.18996 l -16.2113,0 -0.5886,-0.55566 0,-4.64133" />
+       d="m 4108.1187,-1859.332 0.5886,-0.5557 16.2113,0 c 0.4798,0 0.8943,-0.1743 1.2434,-0.523 0.3481,-0.3487 0.5222,-0.7627 0.5222,-1.2421 0,-0.4794 -0.1741,-0.8934 -0.5222,-1.2421 -0.3491,-0.3485 -0.7636,-0.5229 -1.2434,-0.5229 l -9.2501,0 c -2.0908,0 -3.8785,-0.73 -5.3595,-2.19 -1.4599,-1.4599 -2.1903,-3.225 -2.1903,-5.295 0,-2.092 0.7304,-3.8679 2.1903,-5.3279 1.481,-1.4817 3.2687,-2.2226 5.3595,-2.2227 l 16.2132,0 0.5554,0.5885 0,4.6414 -0.5554,0.5883 -16.2132,0 c -0.4789,0 -0.8925,0.1742 -1.2416,0.5229 -0.3269,0.3269 -0.4899,0.7301 -0.4899,1.2095 0,0.4793 0.1639,0.8934 0.4899,1.2419 0.3491,0.327 0.7627,0.4904 1.2416,0.4904 l 9.2501,0 c 2.0926,0 3.8684,0.7408 5.3282,2.2226 1.4599,1.46 2.1903,3.225 2.1903,5.2951 0,2.0919 -0.7304,3.8678 -2.1903,5.3278 -1.4598,1.46 -3.2356,2.19 -5.3282,2.19 l -16.2113,0 -0.5886,-0.5557 0,-4.6413" />
     <path
        sodipodi:nodetypes="ccscccsscsscccccscccssccssccc"
        inkscape:connector-curvature="0"
        id="path4915"
        style="font-size:12.21367931px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:Douar;-inkscape-font-specification:Douar Medium"
-       d="m 1482.0555,912.52656 0.5885,-0.55567 16.2122,0 c 0.479,0 0.8934,-0.17426 1.2416,-0.52297 0.3491,-0.3487 0.5232,-0.76272 0.5232,-1.24212 0,-0.4794 -0.1741,-0.89341 -0.5232,-1.24212 -0.3482,-0.34853 -0.7626,-0.52287 -1.2416,-0.52287 l -9.25,0 c -2.0917,0 -3.8795,-0.73003 -5.3605,-2.18998 -1.4599,-1.45994 -2.1902,-3.22503 -2.1902,-5.29508 0,-2.09197 0.7303,-3.86784 2.1902,-5.32788 1.481,-1.48168 3.2688,-2.22257 5.3605,-2.22266 l 16.2122,0 0.5554,0.58845 0,4.64142 -0.5554,0.58827 -16.2122,0 c -0.4799,0 -0.8934,0.17427 -1.2425,0.52297 -0.327,0.32688 -0.49,0.73002 -0.49,1.20943 0,0.47931 0.163,0.89341 0.49,1.24194 0.3491,0.32697 0.7626,0.49036 1.2425,0.49036 l 9.25,0 c 2.0918,0 3.8675,0.74088 5.3274,2.22266 1.4598,1.45996 2.1902,3.22495 2.1902,5.29509 0,2.09187 -0.7304,3.86783 -2.1902,5.32779 -1.4599,1.45995 -3.2356,2.18996 -5.3274,2.18996 l -16.2122,0 -0.5885,-0.55566 0,-4.64133" />
+       d="m 4135.1201,-1859.332 0.5885,-0.5557 16.2122,0 c 0.479,0 0.8934,-0.1743 1.2416,-0.523 0.3491,-0.3487 0.5232,-0.7627 0.5232,-1.2421 0,-0.4794 -0.1741,-0.8934 -0.5232,-1.2421 -0.3482,-0.3485 -0.7626,-0.5229 -1.2416,-0.5229 l -9.25,0 c -2.0917,0 -3.8795,-0.73 -5.3605,-2.19 -1.4599,-1.4599 -2.1902,-3.225 -2.1902,-5.295 0,-2.092 0.7303,-3.8679 2.1902,-5.3279 1.481,-1.4817 3.2688,-2.2226 5.3605,-2.2227 l 16.2122,0 0.5554,0.5885 0,4.6414 -0.5554,0.5883 -16.2122,0 c -0.4799,0 -0.8934,0.1742 -1.2425,0.5229 -0.327,0.3269 -0.49,0.7301 -0.49,1.2095 0,0.4793 0.163,0.8934 0.49,1.2419 0.3491,0.327 0.7626,0.4904 1.2425,0.4904 l 9.25,0 c 2.0918,0 3.8675,0.7408 5.3274,2.2226 1.4598,1.46 2.1902,3.225 2.1902,5.2951 0,2.0919 -0.7304,3.8678 -2.1902,5.3278 -1.4599,1.46 -3.2356,2.19 -5.3274,2.19 l -16.2122,0 -0.5885,-0.5557 0,-4.6413" />
     <path
        inkscape:connector-curvature="0"
        id="path4917"
        style="font-size:12.21367931px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:Douar;-inkscape-font-specification:Douar Medium"
-       d="m 1565.6375,893.41846 c 2.0705,0 3.8353,0.74089 5.2951,2.22258 1.482,1.48187 2.2225,3.25774 2.2225,5.32787 0,1.52535 -0.4246,2.91991 -1.2748,4.18377 -0.8279,1.24211 -1.9176,2.15727 -3.2678,2.74563 l 3.9541,7.97533 0.5231,1.04594 -0.1299,0.45767 -0.3932,0.35957 -4.5749,0 -0.2294,-0.19609 -0.2937,-0.098 -4.5114,-8.92327 -8.3345,0 0,8.66179 -0.5562,0.55566 -4.6412,0 -0.5554,-0.55566 0,-23.17432 0.5554,-0.58837 16.2122,0 m 6.276,23.33771 -0.2284,-0.45757 -4.2165,-8.4656 0.2937,-0.65376 c 1.2849,-0.45767 2.3422,-1.25299 3.1703,-2.38606 0.828,-1.13306 1.2425,-2.40788 1.2425,-3.82427 0,-1.80857 -0.6439,-3.35574 -1.9286,-4.64142 -1.2637,-1.2856 -2.8,-1.92839 -4.609,-1.92839 l -15.7867,0 0,22.35707 3.7911,0 0,-8.75978 0.4909,-0.45758 9.1514,0 0.4256,0.26149 4.5103,8.95597 3.6934,0 m -3.6611,0.29418 -0.098,-0.098 -0.1961,-0.0653 0.2947,0.16349 m 4.7065,0.32688 0,0.0331 0,-0.0331 m 0,0 0.1308,-0.196 0,0.0981 -0.1308,0.0979 m 0,0.0331 -0.064,0.13097 -0.064,0.0653 0.1317,-0.196 m -18.3372,-18.17332 0,3.46461 11.0149,0 c 0.4789,0 0.8933,-0.16349 1.2424,-0.49027 0.3482,-0.34863 0.5233,-0.76263 0.5233,-1.24203 0,-0.47941 -0.1751,-0.88255 -0.5233,-1.20934 -0.3491,-0.3487 -0.7635,-0.52297 -1.2424,-0.52297 l -11.0149,0 m 11.048,-5.81547 c 0.7627,0 4.7702,1.70983 5.2923,2.25453 0.5453,0.52297 2.1903,4.55245 2.1903,5.29325 0,0.74089 -0.9256,3.80114 -1.4709,4.34594 -0.5232,0.52297 -3.0855,2.11933 -3.8233,1.92785 l -0.35,0.62281 5.554,9.39207 -5.1432,0.11264 -4.922,-8.84524 -8.3428,-0.009 -0.028,8.75481 -5.7575,-0.0543 0.037,-23.20812 0.5553,-0.58827 16.1773,0.0653"
+       d="m 4218.7021,-1878.4401 c 2.0705,0 3.8353,0.7409 5.2951,2.2226 1.482,1.4818 2.2225,3.2577 2.2225,5.3278 0,1.5254 -0.4246,2.9199 -1.2748,4.1838 -0.8279,1.2421 -1.9176,2.1573 -3.2678,2.7456 l 3.9541,7.9754 0.5231,1.0459 -0.1299,0.4577 -0.3932,0.3595 -4.5749,0 -0.2294,-0.1961 -0.2937,-0.098 -4.5114,-8.9232 -8.3345,0 0,8.6618 -0.5562,0.5556 -4.6412,0 -0.5554,-0.5556 0,-23.1744 0.5554,-0.5883 16.2122,0 m 6.276,23.3377 -0.2284,-0.4576 -4.2165,-8.4656 0.2937,-0.6537 c 1.2849,-0.4577 2.3422,-1.253 3.1703,-2.3861 0.828,-1.1331 1.2425,-2.4079 1.2425,-3.8243 0,-1.8085 -0.6439,-3.3557 -1.9286,-4.6414 -1.2637,-1.2856 -2.8,-1.9284 -4.609,-1.9284 l -15.7867,0 0,22.3571 3.7911,0 0,-8.7598 0.4909,-0.4576 9.1514,0 0.4256,0.2615 4.5103,8.956 3.6934,0 m -3.6611,0.2942 -0.098,-0.098 -0.1961,-0.065 0.2947,0.1635 m 4.7065,0.3268 0,0.033 0,-0.033 m 0,0 0.1308,-0.196 0,0.098 -0.1308,0.098 m 0,0.033 -0.064,0.131 -0.064,0.065 0.1317,-0.196 m -18.3372,-18.1733 0,3.4646 11.0149,0 c 0.4789,0 0.8933,-0.1635 1.2424,-0.4903 0.3482,-0.3486 0.5233,-0.7626 0.5233,-1.242 0,-0.4794 -0.1751,-0.8826 -0.5233,-1.2093 -0.3491,-0.3487 -0.7635,-0.523 -1.2424,-0.523 l -11.0149,0 m 11.048,-5.8155 c 0.7627,0 4.7702,1.7098 5.2923,2.2545 0.5453,0.523 2.1903,4.5525 2.1903,5.2933 0,0.7409 -0.9256,3.8011 -1.4709,4.3459 -0.5232,0.523 -3.0855,2.1194 -3.8233,1.9279 l -0.35,0.6228 5.554,9.3921 -5.1432,0.1126 -4.922,-8.8452 -8.3428,-0.01 -0.028,8.7548 -5.7575,-0.054 0.037,-23.2081 0.5553,-0.5883 16.1773,0.065"
        sodipodi:nodetypes="cccccccccccccccccccccccccscccccccccccccccccccccccccccccscccsccccsscccccccccc" />
     <path
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path4919"
        style="font-size:12.21367931px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:Douar;-inkscape-font-specification:Douar Medium"
-       d="m 1576.0417,893.96097 0.5885,-0.55567 23.1734,0 0.5564,0.55567 0,4.64133 -0.5564,0.58836 -8.6614,0 0,12.74753 8.6614,0 0.5564,0.58837 0,4.64133 -0.5564,0.55566 -23.1734,0 -0.5885,-0.55566 0,-4.64133 0.5885,-0.58837 8.6937,0 0,-12.74753 -8.6937,0 -0.5885,-0.58836 0,-4.64133" />
+       d="m 4229.1063,-1877.8976 0.5885,-0.5557 23.1734,0 0.5564,0.5557 0,4.6413 -0.5564,0.5884 -8.6614,0 0,12.7475 8.6614,0 0.5564,0.5884 0,4.6413 -0.5564,0.5557 -23.1734,0 -0.5885,-0.5557 0,-4.6413 0.5885,-0.5884 8.6937,0 0,-12.7475 -8.6937,0 -0.5885,-0.5884 0,-4.6413" />
     <path
        sodipodi:nodetypes="ccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path4921"
        style="font-size:12.21367931px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:Douar;-inkscape-font-specification:Douar Medium"
-       d="m 1603.8922,893.99366 0.5885,-0.58845 23.1735,0 0.5564,0.58845 0,4.64142 -0.5564,0.58827 -8.7269,0 0,17.94454 -0.5553,0.55566 -4.6412,0 -0.5563,-0.55566 0,-17.94454 -8.6938,0 -0.5885,-0.58827 0,-4.64142" />
+       d="m 4256.9568,-1877.8649 0.5885,-0.5885 23.1735,0 0.5564,0.5885 0,4.6414 -0.5564,0.5883 -8.7269,0 0,17.9445 -0.5553,0.5557 -4.6412,0 -0.5563,-0.5557 0,-17.9445 -8.6938,0 -0.5885,-0.5883 0,-4.6414" />
     <path
        inkscape:connector-curvature="0"
        id="path4923"
        style="font-size:12.21367931px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:Douar;-inkscape-font-specification:Douar Medium"
-       d="m 1453.2166,905.59708 c 0,2.24449 -0.5342,4.30367 -1.6017,6.17762 -1.0463,1.85224 -2.4951,3.31227 -4.3473,4.37994 -1.8522,1.04594 -3.9117,1.56891 -6.1775,1.56891 -2.2666,0 -4.3372,-0.52297 -6.2106,-1.56891 -1.8522,-1.06767 -3.312,-2.5277 -4.3795,-4.37994 -1.0684,-1.87395 -1.6017,-3.93313 -1.6017,-6.17762 0,-2.26614 0.5333,-4.32541 1.6017,-6.17764 1.0675,-1.87395 2.5273,-3.34486 4.3795,-4.41254 1.8734,-1.06776 3.944,-1.6016 6.2106,-1.6016 2.2658,0 4.3253,0.53384 6.1775,1.6016 1.8522,1.06768 3.301,2.53859 4.3473,4.41254 1.0675,1.85223 1.6017,3.9115 1.6017,6.17764 m -12.0611,-6.4416 c -3.1601,0 -2.4536,-0.26075 -4.6107,1.89643 -2.1571,2.13544 -1.831,1.39649 -1.831,4.57796 0,3.15955 -0.3261,2.37693 1.831,4.51237 2.1571,2.13555 1.3852,1.86384 4.5453,1.86384 3.1804,0 2.3984,0.23873 4.5122,-1.89644 2.136,-2.13544 1.8965,-1.32022 1.8965,-4.47977 0,-3.18147 0.3371,-2.47513 -1.7979,-4.61057 -2.1359,-2.15728 -1.3862,-1.86382 -4.5454,-1.86382 m -0.065,0.035 c -1.8089,0 -3.3231,0.61011 -4.5435,1.83039 -1.2204,1.2203 -1.8301,2.74564 -1.8301,4.57603 0,1.78683 0.6097,3.29044 1.8301,4.51063 1.2204,1.2203 2.7346,1.83039 4.5435,1.83039 1.7869,0 3.2909,-0.61009 4.5104,-1.83039 1.2425,-1.22019 1.8633,-2.7238 1.8633,-4.51063 0,-1.83039 -0.6107,-3.35573 -1.8301,-4.57603 -1.2204,-1.22028 -2.7355,-1.83039 -4.5436,-1.83039 m 7.3546,6.40642 c 0,2.07014 -0.7083,3.81341 -2.1249,5.22979 -1.4165,1.39455 -3.1601,2.09187 -5.2297,2.09187 -2.0926,0 -3.8462,-0.69732 -5.2628,-2.09187 -1.3945,-1.41638 -2.0917,-3.15965 -2.0917,-5.22979 0,-2.09187 0.6972,-3.84601 2.0917,-5.26238 1.4166,-1.41639 3.1702,-2.12458 5.2628,-2.12458 4.7526,0.42754 6.6592,3.48569 7.3546,7.38696"
+       d="m 4106.2812,-1866.2615 c 0,2.2445 -0.5342,4.3037 -1.6017,6.1776 -1.0463,1.8523 -2.4951,3.3123 -4.3473,4.38 -1.8522,1.0459 -3.9117,1.5689 -6.1775,1.5689 -2.2666,0 -4.3372,-0.523 -6.2106,-1.5689 -1.8522,-1.0677 -3.312,-2.5277 -4.3795,-4.38 -1.0684,-1.8739 -1.6017,-3.9331 -1.6017,-6.1776 0,-2.2661 0.5333,-4.3254 1.6017,-6.1776 1.0675,-1.874 2.5273,-3.3449 4.3795,-4.4126 1.8734,-1.0677 3.944,-1.6016 6.2106,-1.6016 2.2658,0 4.3253,0.5339 6.1775,1.6016 1.8522,1.0677 3.301,2.5386 4.3473,4.4126 1.0675,1.8522 1.6017,3.9115 1.6017,6.1776 m -12.0611,-6.4416 c -3.1601,0 -2.4536,-0.2608 -4.6107,1.8964 -2.1571,2.1355 -1.831,1.3965 -1.831,4.578 0,3.1595 -0.3261,2.3769 1.831,4.5124 2.1571,2.1355 1.3852,1.8638 4.5453,1.8638 3.1804,0 2.3984,0.2387 4.5122,-1.8964 2.136,-2.1355 1.8965,-1.3203 1.8965,-4.4798 0,-3.1815 0.3371,-2.4751 -1.7979,-4.6106 -2.1359,-2.1573 -1.3862,-1.8638 -4.5454,-1.8638 m -0.065,0.035 c -1.8089,0 -3.3231,0.6101 -4.5435,1.8304 -1.2204,1.2203 -1.8301,2.7456 -1.8301,4.576 0,1.7868 0.6097,3.2905 1.8301,4.5106 1.2204,1.2203 2.7346,1.8304 4.5435,1.8304 1.7869,0 3.2909,-0.6101 4.5104,-1.8304 1.2425,-1.2201 1.8633,-2.7238 1.8633,-4.5106 0,-1.8304 -0.6107,-3.3557 -1.8301,-4.576 -1.2204,-1.2203 -2.7355,-1.8304 -4.5436,-1.8304 m 7.3546,6.4064 c 0,2.0702 -0.7083,3.8134 -2.1249,5.2298 -1.4165,1.3946 -3.1601,2.0919 -5.2297,2.0919 -2.0926,0 -3.8462,-0.6973 -5.2628,-2.0919 -1.3945,-1.4164 -2.0917,-3.1596 -2.0917,-5.2298 0,-2.0919 0.6972,-3.846 2.0917,-5.2624 1.4166,-1.4164 3.1702,-2.1245 5.2628,-2.1245 4.7526,0.4275 6.6592,3.4856 7.3546,7.3869"
        sodipodi:nodetypes="cccsccsccccccccsssccccccsssccccccscsccc" />
     <path
        style="fill:#333333;fill-opacity:1;stroke:none"
-       d="m 1401.919,959.11006 0,-31.98458 225.5574,0.0755 0,31.98641 z"
+       d="m 4054.9836,-1812.7485 0,-31.9846 225.5574,0.075 0,31.9864 z"
        id="path4925"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-size:40.19330978px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;stroke:none;font-family:VDS;-inkscape-font-specification:VDS Bold"
-       x="1498.9415"
-       y="919.95807"
+       x="4152.0063"
+       y="-1851.9005"
        id="text4927"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4929"
-         x="1498.9415"
-         y="919.95807"
+         x="4152.0063"
+         y="-1851.9005"
          style="font-size:40.19330978px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#3c9700;fill-opacity:1;font-family:VDS;-inkscape-font-specification:VDS Bold"> @</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -1747,50 +1772,6 @@
            y="92.362183" /></flowRegion><flowPara
          id="flowPara2999" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot3045"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(2736.9785,-1627.2912)"><flowRegion
-         id="flowRegion3047"><rect
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3049"
-           width="1501.6715"
-           height="460.22824"
-           x="58.57143"
-           y="317.14285" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara7520">A bipartite graph is a graph that can be split such that there are no connections within a partition.</flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3391" /><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3393">We can assume this because every CSS rule can stand on its own an be operated on as if it were its own element in the bipartite graph. </flowPara><flowPara
-         id="flowPara3057"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3059"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3061"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3063"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3111"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(77.5625,-2210.0783)"><flowRegion
-         id="flowRegion3113"><rect
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3115"
-           width="1659.7142"
-           height="363.42859"
-           x="41.42857"
-           y="870" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3192">Web developers everywhere have heard of minifying Javascript and CSS to decrease asset sizes and make Web pages load faster. With Python we can go beyond minification using genetic algorithms to compress CSS. Using the tinycss library we can apply a bipartite algorithm to any stylesheet to beat standard minification techniques by 10%.</flowPara><flowPara
-         id="flowPara3125"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3127"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3129"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot3131"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        transform="translate(-2872.5592,152.65047)"><flowRegion
@@ -1801,37 +1782,6 @@
            x="27.142857"
            y="1041.4286" /></flowRegion><flowPara
          id="flowPara3137" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3159"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-834.95938,-1340.9223)"><flowRegion
-         id="flowRegion3161"><rect
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3163"
-           width="1394.5714"
-           height="539.99994"
-           x="931.42859"
-           y="917.14288" /></flowRegion><flowPara
-         id="flowPara3169"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">1) Randomly mutates members of the population</flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3407" /><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3409">2) Test them against a fitness function</flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3411" /><flowPara
-         id="flowPara3175"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">3) Select the fittest</flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3428" /><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3449">4) Make copies of the fittest</flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3455" /><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3459">5) Repeat</flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3457" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3177"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1867,60 +1817,160 @@
          id="flowPara3203"
          style="font-size:40px" /><flowPara
          id="flowPara3205"
-         style="font-size:40px" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3065-9-7"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(1976.9785,-1753.8477)"><flowRegion
-         id="flowRegion3067-4-0"><rect
+         style="font-size:40px" /></flowRoot>    <g
+       id="g3592"
+       transform="translate(56.568542,-38.39192)">
+      <flowRoot
+         transform="translate(2736.9785,-1627.2912)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3045"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3047"><rect
+             y="317.14285"
+             x="58.57143"
+             height="460.22824"
+             width="1501.6715"
+             id="rect3049"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           id="flowPara7520"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">A bipartite graph is a graph that can be split such that there are no connections within a partition.</flowPara><flowPara
+           id="flowPara3391"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+           id="flowPara3393"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">We can assume this because every CSS rule can stand on its own </flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3069-9-1"
-           width="1637.4286"
-           height="371.14285"
-           x="818.57141"
-           y="340" /></flowRegion><flowPara
-         id="flowPara3073-8-4"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">What's a bipartite graph?</flowPara><flowPara
-         id="flowPara3075-9-4"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3077-7-9"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3065-9-7-6-3-7-31"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-699.5625,-1771.2325)"><flowRegion
-         id="flowRegion3067-4-0-2-9-7-0"><rect
+           id="flowPara3695">and be operated on as if it were its own element in the bipartite graph. </flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3069-9-1-2-3-1-7"
-           width="1637.4286"
-           height="371.14285"
-           x="818.57141"
-           y="340" /></flowRegion><flowPara
-         id="flowPara3077-7-9-0-1-5-8"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Why bother?</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3309"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-7.5218803,-2256.2841)"><flowRegion
-         id="flowRegion3311"><rect
-           id="rect3313"
-           width="1364"
-           height="112"
-           x="104"
-           y="1752" /></flowRegion><flowPara
-         id="flowPara3315"
-         style="font-size:64px">What's a genetic algoritm</flowPara></flowRoot>    <flowRoot
+           id="flowPara3057" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3059" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3061" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3063" /></flowRoot>      <flowRoot
+         transform="translate(1976.9785,-1753.8477)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3065-9-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3067-4-0"><rect
+             y="340"
+             x="818.57141"
+             height="371.14285"
+             width="1637.4286"
+             id="rect3069-9-1"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3073-8-4">What's a bipartite graph?</flowPara><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3075-9-4" /><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3077-7-9" /></flowRoot>    </g>
+    <g
+       id="g3676"
+       transform="translate(5.450788,112.45303)">
+      <flowRoot
+         transform="translate(66.248792,-2379.7839)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3111"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3113"><rect
+             y="870"
+             x="41.42857"
+             height="363.42859"
+             width="1659.7142"
+             id="rect3115"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           id="flowPara3192"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Web developers everywhere have heard of minifying </flowPara><flowPara
+           id="flowPara3664"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Javascript and CSS to decrease asset sizes and make </flowPara><flowPara
+           id="flowPara3666"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Web pages load faster. With Python we can go beyond </flowPara><flowPara
+           id="flowPara3668"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">minification using genetic algorithms to compress CSS. </flowPara><flowPara
+           id="flowPara3670"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Using the tinycss library we can apply a bipartite </flowPara><flowPara
+           id="flowPara3672"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">algorithm to any stylesheet to beat standard minification </flowPara><flowPara
+           id="flowPara3674"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">techniques by 10%.</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3125" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3127" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3129" /></flowRoot>      <flowRoot
+         transform="translate(-710.87621,-1940.9381)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3065-9-7-6-3-7-31"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3067-4-0-2-9-7-0"><rect
+             y="340"
+             x="818.57141"
+             height="371.14285"
+             width="1637.4286"
+             id="rect3069-9-1-2-3-1-7"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3077-7-9-0-1-5-8">Why bother?</flowPara></flowRoot>    </g>
+    <g
+       id="g3627">
+      <flowRoot
+         transform="translate(-834.95938,-1340.9223)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3159"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3161"><rect
+             y="917.14288"
+             x="931.42859"
+             height="539.99994"
+             width="1394.5714"
+             id="rect3163"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3169">1) Randomly mutates members of the population</flowPara><flowPara
+           id="flowPara3407"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+           id="flowPara3409"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">2) Test them against a fitness function</flowPara><flowPara
+           id="flowPara3411"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3175">3) Select the fittest</flowPara><flowPara
+           id="flowPara3428"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+           id="flowPara3449"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">4) Make copies of the fittest</flowPara><flowPara
+           id="flowPara3455"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+           id="flowPara3459"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">5) Repeat</flowPara><flowPara
+           id="flowPara3457"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>      <flowRoot
+         transform="translate(-7.5218803,-2256.2841)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3309"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3311"><rect
+             y="1752"
+             x="104"
+             height="112"
+             width="1364"
+             id="rect3313" /></flowRegion><flowPara
+           style="font-size:64px"
+           id="flowPara3315">What's a genetic algoritm</flowPara></flowRoot>    </g>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot3214"
        style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
-       transform="matrix(1.8667005,0,0,1.8667005,-1056.3453,-2386.4305)"><flowRegion
+       transform="matrix(1.8667005,0,0,1.8667005,-1056.6528,-2386.4305)"><flowRegion
          id="flowRegion3216"><rect
            id="rect3218"
            width="2188"
            height="176"
            x="628"
            y="108"
-           style="text-anchor:middle;text-align:center" /></flowRegion><flowPara
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:144px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowPara3188">CSS and Genetic Algorithms</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -1942,101 +1992,49 @@
            height="100"
            x="248"
            y="1888" /></flowRegion><flowPara
-         id="flowPara3267" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3159-9"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-848.7402,-722.3399)"><flowRegion
-         id="flowRegion3161-2"><rect
+         id="flowPara3267" /></flowRoot>    <g
+       id="g3697"
+       transform="translate(0,120)">
+      <flowRoot
+         transform="translate(-848.7402,-722.3399)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3159-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3161-2"><rect
+             y="917.14288"
+             x="931.42859"
+             height="373.99994"
+             width="1596.5714"
+             id="rect3163-5"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3163-5"
-           width="1596.5714"
-           height="373.99994"
-           x="931.42859"
-           y="917.14288" /></flowRegion><flowPara
-         id="flowPara3171-7"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">CSS is just a series of rules, and we can look at each rule as if it were a biclique. That's a fancy way of saying that we can assume both sets of rules on the right are valid.</flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3366" /><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3389">We must assume that the rule with the highest specificity is the one that the user wants to win. </flowPara><flowPara
-         id="flowPara3173-8"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3175-9"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3309-5"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-21.30273,-1637.7016)"><flowRegion
-         id="flowRegion3311-3"><rect
-           id="rect3313-5"
-           width="1364"
-           height="112"
-           x="104"
-           y="1752" /></flowRegion><flowPara
-         id="flowPara3315-4"
-         style="font-size:64px">How does this apply to CSS?</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1333.2982"
-       y="-267.36816"
-       id="text3336"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3338"
-         x="1333.2982"
-         y="-267.36816">div {</tspan><tspan
-         sodipodi:role="line"
-         x="1333.2982"
-         y="-217.36816"
-         id="tspan3340">    color: blue;</tspan><tspan
-         sodipodi:role="line"
-         x="1333.2982"
-         y="-167.36816"
-         id="tspan3342">    margin: 5em;</tspan><tspan
-         sodipodi:role="line"
-         x="1333.2982"
-         y="-117.36816"
-         id="tspan3344">}</tspan><tspan
-         sodipodi:role="line"
-         x="1333.2982"
-         y="-67.368164"
-         id="tspan3346">p {</tspan><tspan
-         sodipodi:role="line"
-         x="1333.2982"
-         y="-17.368164"
-         id="tspan3348">    color: blue;</tspan><tspan
-         sodipodi:role="line"
-         x="1333.2982"
-         y="32.631836"
-         id="tspan3350">    margin: 5em;</tspan><tspan
-         sodipodi:role="line"
-         x="1333.2982"
-         y="82.631836"
-         id="tspan3352">}</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2269.033"
-       y="-175.76875"
-       id="text3354"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2269.033"
-         y="-175.76875"
-         id="tspan3358">div , p {</tspan><tspan
-         sodipodi:role="line"
-         x="2269.033"
-         y="-125.76875"
-         id="tspan3360">margin: 5em;</tspan><tspan
-         sodipodi:role="line"
-         x="2269.033"
-         y="-75.768753"
-         id="tspan3374">color: blue;</tspan><tspan
-         sodipodi:role="line"
-         x="2269.033"
-         y="-25.768751"
-         id="tspan3385">}</tspan></text>
+           id="flowPara3171-7">CSS is just a series of rules, and we can look at each rule </flowPara><flowPara
+           id="flowPara3646"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">as if it were a biclique. That's a fancy way of saying that </flowPara><flowPara
+           id="flowPara3648"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">we can assume both sets of rules on the right are valid.</flowPara><flowPara
+           id="flowPara3366"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+           id="flowPara3389"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">We must assume that the rule with the highest specificity </flowPara><flowPara
+           id="flowPara3650"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">is the one that the user wants to win. </flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3173-8" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3175-9" /></flowRoot>      <flowRoot
+         transform="translate(-21.30273,-1637.7016)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3309-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3311-3"><rect
+             y="1752"
+             x="104"
+             height="112"
+             width="1364"
+             id="rect3313-5" /></flowRegion><flowPara
+           style="font-size:64px"
+           id="flowPara3315-4">How does this apply to CSS?</flowPara></flowRoot>    </g>
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2052,186 +2050,16 @@
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1469.1819"
-       y="-1541.8497"
+       x="1446.5544"
+       y="-1615.3888"
        id="text3403"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3405"
-         x="1469.1819"
-         y="-1541.8497">Save bandwidth, beat standard minification techniques by 10%.</tspan></text>
+         x="1446.5544"
+         y="-1615.3888">Save bandwidth, beat standard minification techniques by 10%.</tspan></text>
     <g
-       id="g7124"
-       transform="translate(0,-400)">
-      <path
-         style="fill:#008080"
-         transform="translate(-629.48137,-1926.0485)"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517"
-         sodipodi:type="arc" />
-      <path
-         style="fill:#008080"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-3"
-         sodipodi:type="arc"
-         transform="translate(-739.35637,-1513.9386)" />
-      <path
-         style="fill:#ff2a2a"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-4"
-         sodipodi:type="arc"
-         transform="translate(-514.41887,-1513.9386)" />
-      <path
-         style="fill:#ff2a2a"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-4-5"
-         sodipodi:type="arc"
-         transform="translate(-289.4814,-1513.9386)" />
-      <path
-         style="fill:#ff2a2a"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-4-1"
-         sodipodi:type="arc"
-         transform="translate(-385.4814,-1926.0485)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6563"
-         d="m 1621.9935,-363.79919 64,254"
-         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6563-0"
-         d="m 1382.0555,-368.73717 65.9845,261.87596"
-         style="fill:none;stroke:#000000;stroke-width:4.12403107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6608"
-         d="m 1337.7242,-365.52985 -91.4614,259.46132"
-         style="fill:none;stroke:#000000;stroke-width:4.53867245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6608-5"
-         d="m 1583.7727,-365.57838 -87.5584,259.55839"
-         style="fill:none;stroke:#000000;stroke-width:4.44160795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6653"
-         d="m 1559.9935,-371.79919 -258,282.000002"
-         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6673"
-         d="m 1408.0223,-375.77041 247.5108,277.942442"
-         style="fill:none;stroke:#000000;stroke-width:4.05755377;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <g
-       id="g7137"
-       transform="translate(0,-400)">
-      <path
-         style="fill:#800080"
-         transform="translate(380.3618,-1926.999)"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-9"
-         sodipodi:type="arc" />
-      <path
-         style="fill:#800080"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-3-5"
-         sodipodi:type="arc"
-         transform="translate(270.4868,-1514.8892)" />
-      <path
-         style="fill:#800080"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-4-0"
-         sodipodi:type="arc"
-         transform="translate(495.4243,-1514.8892)" />
-      <path
-         style="fill:#800080"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-4-5-5"
-         sodipodi:type="arc"
-         transform="translate(720.3618,-1514.8892)" />
-      <path
-         style="fill:#800080"
-         d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
-         sodipodi:ry="80"
-         sodipodi:rx="80"
-         sodipodi:cy="1484"
-         sodipodi:cx="1986"
-         id="path3517-4-1-2"
-         sodipodi:type="arc"
-         transform="translate(624.3618,-1926.999)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6563-1"
-         d="m 2387.4354,-368.72167 66.4806,263.84496"
-         style="fill:none;stroke:#000000;stroke-width:4.15503883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6563-3"
-         d="m 2633.9935,-364.79919 64,254"
-         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6608-0"
-         d="m 2343.9935,-363.79919 -72,256"
-         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6608-7"
-         d="m 2578.2704,-371.73765 -74.2154,263.87692"
-         style="fill:none;stroke:#000000;stroke-width:4.12307692;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:transform-center-y="-70"
-         inkscape:transform-center-x="846"
-         inkscape:connector-curvature="0"
-         id="path6653-1"
-         d="m 2564.9935,-376.79919 -258,282.000002"
-         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6673-1"
-         d="m 2404.0718,-370.72085 259.8434,277.843322"
-         style="fill:none;stroke:#000000;stroke-width:4.15667009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <g
-       transform="matrix(1.193599,0,0,1.193599,165.53235,-1168.3815)"
+       transform="matrix(1.193599,0,0,1.193599,244.72831,-1207.9795)"
        id="layer1-3"
        inkscape:label="Layer 1">
       <g
@@ -2430,81 +2258,321 @@
       </g>
     </g>
     <g
-       id="g7150"
-       transform="translate(0,-400)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5993"
-         d="m 1814.3207,-228.5462 319.3456,0"
-         style="fill:none;stroke:#000000;stroke-width:6.25626183;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)" />
+       id="g3546"
+       transform="translate(59.046495,935.45189)">
       <text
          sodipodi:linespacing="125%"
-         id="text7116"
-         y="-271.33435"
-         x="1897.6091"
-         style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text3336"
+         y="-369.19153"
+         x="1457.749"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          xml:space="preserve"><tspan
-           y="-271.33435"
+           y="-369.19153"
+           x="1457.749"
+           id="tspan3338"
+           sodipodi:role="line">div {</tspan><tspan
+           id="tspan3340"
+           y="-309.19153"
+           x="1457.749"
+           sodipodi:role="line">    color: blue;</tspan><tspan
+           id="tspan3342"
+           y="-249.19153"
+           x="1457.749"
+           sodipodi:role="line">    margin: 5em;</tspan><tspan
+           id="tspan3344"
+           y="-189.19153"
+           x="1457.749"
+           sodipodi:role="line">}</tspan><tspan
+           id="tspan3346"
+           y="-129.19153"
+           x="1457.749"
+           sodipodi:role="line">p {</tspan><tspan
+           id="tspan3348"
+           y="-69.191528"
+           x="1457.749"
+           sodipodi:role="line">    color: blue;</tspan><tspan
+           id="tspan3350"
+           y="-9.1915283"
+           x="1457.749"
+           sodipodi:role="line">    margin: 5em;</tspan><tspan
+           id="tspan3352"
+           y="50.808472"
+           x="1457.749"
+           sodipodi:role="line">}</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3354"
+         y="-277.59213"
+         x="2393.4836"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3358"
+           y="-277.59213"
+           x="2393.4836"
+           sodipodi:role="line">div , p {</tspan><tspan
+           id="tspan3360"
+           y="-217.59213"
+           x="2393.4836"
+           sodipodi:role="line">margin: 5em;</tspan><tspan
+           id="tspan3374"
+           y="-157.59213"
+           x="2393.4836"
+           sodipodi:role="line">color: blue;</tspan><tspan
+           id="tspan3385"
+           y="-97.592133"
+           x="2393.4836"
+           sodipodi:role="line">}</tspan></text>
+      <g
+         transform="translate(124.45079,-501.82338)"
+         id="g7124">
+        <path
+           sodipodi:type="arc"
+           id="path3517"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           transform="translate(-629.48137,-1926.0485)"
+           style="fill:#008080" />
+        <path
+           transform="translate(-739.35637,-1513.9386)"
+           sodipodi:type="arc"
+           id="path3517-3"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#008080" />
+        <path
+           transform="translate(-514.41887,-1513.9386)"
+           sodipodi:type="arc"
+           id="path3517-4"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#ff2a2a" />
+        <path
+           transform="translate(-289.4814,-1513.9386)"
+           sodipodi:type="arc"
+           id="path3517-4-5"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#ff2a2a" />
+        <path
+           transform="translate(-385.4814,-1926.0485)"
+           sodipodi:type="arc"
+           id="path3517-4-1"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#ff2a2a" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1621.9935,-363.79919 64,254"
+           id="path6563"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.12403107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1382.0555,-368.73717 65.9845,261.87596"
+           id="path6563-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.53867245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1337.7242,-365.52985 -91.4614,259.46132"
+           id="path6608"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.44160795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1583.7727,-365.57838 -87.5584,259.55839"
+           id="path6608-5"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1559.9935,-371.79919 -258,282.000002"
+           id="path6653"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.05755377;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1408.0223,-375.77041 247.5108,277.942442"
+           id="path6673"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(124.45079,-501.82338)"
+         id="g7137">
+        <path
+           sodipodi:type="arc"
+           id="path3517-9"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           transform="translate(380.3618,-1926.999)"
+           style="fill:#800080" />
+        <path
+           transform="translate(270.4868,-1514.8892)"
+           sodipodi:type="arc"
+           id="path3517-3-5"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#800080" />
+        <path
+           transform="translate(495.4243,-1514.8892)"
+           sodipodi:type="arc"
+           id="path3517-4-0"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#800080" />
+        <path
+           transform="translate(720.3618,-1514.8892)"
+           sodipodi:type="arc"
+           id="path3517-4-5-5"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#800080" />
+        <path
+           transform="translate(624.3618,-1926.999)"
+           sodipodi:type="arc"
+           id="path3517-4-1-2"
+           sodipodi:cx="1986"
+           sodipodi:cy="1484"
+           sodipodi:rx="80"
+           sodipodi:ry="80"
+           d="m 2066,1484 c 0,44.1828 -35.8172,80 -80,80 -44.1828,0 -80,-35.8172 -80,-80 0,-44.1828 35.8172,-80 80,-80 44.1828,0 80,35.8172 80,80 z"
+           style="fill:#800080" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.15503883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 2387.4354,-368.72167 66.4806,263.84496"
+           id="path6563-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 2633.9935,-364.79919 64,254"
+           id="path6563-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 2343.9935,-363.79919 -72,256"
+           id="path6608-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.12307692;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 2578.2704,-371.73765 -74.2154,263.87692"
+           id="path6608-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 2564.9935,-376.79919 -258,282.000002"
+           id="path6653-1"
+           inkscape:connector-curvature="0"
+           inkscape:transform-center-x="846"
+           inkscape:transform-center-y="-70" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.15667009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 2404.0718,-370.72085 259.8434,277.843322"
+           id="path6673-1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(124.45079,-501.82338)"
+         id="g7150">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:6.25626183;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+           d="m 1814.3207,-228.5462 319.3456,0"
+           id="path5993"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
            x="1897.6091"
-           id="tspan7118"
-           sodipodi:role="line">Merge</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text7120"
-         y="-155.47255"
-         x="1865.8177"
-         style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-155.47255"
+           y="-271.33435"
+           id="text7116"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7118"
+             x="1897.6091"
+             y="-271.33435">Merge</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
            x="1865.8177"
-           id="tspan7122"
-           sodipodi:role="line">Unmerge</tspan></text>
+           y="-155.47255"
+           id="text7120"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7122"
+             x="1865.8177"
+             y="-155.47255">Unmerge</tspan></text>
+      </g>
     </g>
+    <g
+       id="g3610"
+       transform="translate(11.313708,-236.38182)">
+      <flowRoot
+         transform="translate(2919.0235,118.01363)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3045-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3047-3"><rect
+             y="317.14285"
+             x="58.57143"
+             height="416.22824"
+             width="1153.6715"
+             id="rect3049-1"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3057-8">We need your CSS to work the same way but use fewer bits. To do this, we need to cover the same graph (rule set) but find the best way to do it. </flowPara><flowPara
+           id="flowPara3333"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+           id="flowPara3337"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Because compressing a graph in this way is NP-hard, we need to figure out an end condition. If there is no improvement for 10 generations if we say &quot;good enough&quot; and end the program</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3059-1" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3061-9" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3063-0" /></flowRoot>      <flowRoot
+         transform="translate(2159.0235,-8.5427666)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowRoot3065-9-7-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3067-4-0-2"><rect
+             y="340"
+             x="818.57141"
+             height="371.14285"
+             width="1637.4286"
+             id="rect3069-9-1-2"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3073-8-4-7">Are we done yet?</flowPara><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3075-9-4-9" /><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara3077-7-9-8" /></flowRoot>    </g>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot3045-7"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(2919.0235,118.01363)"><flowRegion
-         id="flowRegion3047-3"><rect
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3049-1"
-           width="1153.6715"
-           height="416.22824"
-           x="58.57143"
-           y="317.14285" /></flowRegion><flowPara
-         id="flowPara3057-8"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">We need your CSS to work the same way but use fewer bits. To do this, we need to cover the same graph (rule set) but find the best way to do it. </flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3333" /><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara3337">Because compressing a graph in this way is NP-hard, we need to figure out an end condition. If there is no improvement for 10 generations if we say &quot;good enough&quot; and end the program</flowPara><flowPara
-         id="flowPara3059-1"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3061-9"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3063-0"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3065-9-7-9"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(2159.0235,-8.5427666)"><flowRegion
-         id="flowRegion3067-4-0-2"><rect
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="rect3069-9-1-2"
-           width="1637.4286"
-           height="371.14285"
-           x="818.57141"
-           y="340" /></flowRegion><flowPara
-         id="flowPara3073-8-4-7"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Are we done yet?</flowPara><flowPara
-         id="flowPara3075-9-4-9"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3077-7-9-8"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3045-7-1"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(2901.0365,-1063.6999)"><flowRegion
+       transform="translate(2928.9231,-1220.8858)"><flowRegion
          id="flowRegion3047-3-8"><rect
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="rect3049-1-3"
@@ -2529,7 +2597,7 @@
        xml:space="preserve"
        id="flowRoot3065-9-7-9-9"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(2141.0364,-1190.2562)"><flowRegion
+       transform="translate(2164.556,-1347.4421)"><flowRegion
          id="flowRegion3067-4-0-2-0"><rect
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="rect3069-9-1-2-1"
@@ -2546,7 +2614,7 @@
        xml:space="preserve"
        id="flowRoot3045-7-1-3"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(2906.7793,-604.6196)"><flowRegion
+       transform="translate(2930.9544,-761.80546)"><flowRegion
          id="flowRegion3047-3-8-0"><rect
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="rect3049-1-3-1"
@@ -2571,7 +2639,7 @@
        xml:space="preserve"
        id="flowRoot3065-9-7-9-9-8"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(2146.7792,-731.1758)"><flowRegion
+       transform="translate(2164.556,-888.3617)"><flowRegion
          id="flowRegion3067-4-0-2-0-0"><rect
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="rect3069-9-1-2-1-1"
@@ -2764,7 +2832,7 @@
     </g>
     <g
        id="layer1-7"
-       transform="matrix(3.6292272,0,0,3.6292272,-2969.2346,-1921.7881)">
+       transform="matrix(3.6292272,0,0,3.6292272,-2935.2935,-2078.974)">
       <g
          id="use2297"
          transform="translate(1553.0835,-179.13749)">
@@ -2867,7 +2935,7 @@
       </g>
     </g>
     <g
-       transform="matrix(3.0320767,0,0,3.0320767,4499.8517,-4460.7301)"
+       transform="matrix(3.0320767,0,0,3.0320767,4344.3018,-5516.7301)"
        id="layer1-0"
        inkscape:label="Layer 1">
       <rect
