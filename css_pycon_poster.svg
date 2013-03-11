@@ -1526,11 +1526,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.13542006"
-     inkscape:cx="2989.6529"
-     inkscape:cy="1612.9346"
+     inkscape:zoom="0.6"
+     inkscape:cx="1973.4163"
+     inkscape:cy="4.4532909"
      inkscape:document-units="px"
-     inkscape:current-layer="g3006"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1280"
@@ -1857,7 +1857,7 @@
          id="flowPara3191"
          style="font-size:40px">Links:</flowPara><flowPara
          style="font-size:40px"
-         id="flowPara3219">[1]: http://github.com/ryansb/genetic-css    </flowPara><flowPara
+         id="flowPara3219">http://github.com/ryansb/genetic-css    </flowPara><flowPara
          id="flowPara3197"
          style="font-size:40px" /><flowPara
          id="flowPara3199"
@@ -2059,7 +2059,7 @@
          sodipodi:role="line"
          id="tspan3405"
          x="1469.1819"
-         y="-1541.8497">Save bandwidth, beat standard minification techniques by 10%.</tspan></text>
+         y="-1541.8497">Save bandwidth, beat standard minification* techniques by 10%. [1]</tspan></text>
     <g
        id="g7124"
        transform="translate(0,-400)">
@@ -2988,6 +2988,19 @@
              id="tspan3102-5"
              x="-694.79169"
              y="1634.2249">Declaration Block</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:15.95722389px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="-706.39502"
+           y="1796.4697"
+           id="text3538"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0000626,0.9999374)"><tspan
+             sodipodi:role="line"
+             id="tspan3540"
+             x="-706.39502"
+             y="1796.4697"
+             style="font-size:4.78716707px">Image courtesy of https://openclipart.org/detail/171251/css-rule-by-xsapien-171251</tspan></text>
       </g>
       <text
          transform="scale(0.93066083,1.0745053)"
@@ -3053,5 +3066,22 @@
          id="rect3929"
          style="fill:none;stroke:#000000;stroke-width:1.16202116;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1714.9999"
+       y="860.69226"
+       id="text3542"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3544"
+         x="1714.9999"
+         y="860.69226"
+         style="font-size:30px">* As compared to removing all whitespace from the </tspan><tspan
+         sodipodi:role="line"
+         x="1714.9999"
+         y="898.19226"
+         id="tspan3546"
+         style="font-size:30px">CSS file, a common practice in web development.</tspan></text>
   </g>
 </svg>
