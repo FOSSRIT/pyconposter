@@ -301,9 +301,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20018759"
-     inkscape:cx="1762.0885"
-     inkscape:cy="1217.5374"
+     inkscape:zoom="0.19864822"
+     inkscape:cx="2161.7137"
+     inkscape:cy="1605.1625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -340,6 +340,10 @@
        orientation="0,1"
        position="1708.5724,2260.0424"
        id="guide3286" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2330.018,1068.7061"
+       id="guide6989" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -393,7 +397,7 @@
            y="127.00504" /></flowRegion><flowPara
          id="flowPara4903" /></flowRoot>    <g
        id="g6707"
-       transform="translate(3.4765625e-6,0)">
+       transform="translate(3.4765625e-6,24)">
       <g
          transform="translate(-848.00001,-3.4300933e-7)"
          id="g6598">
@@ -553,7 +557,7 @@
            y="92.362183" /></flowRegion><flowPara
          id="flowPara2999" /></flowRoot>    <g
        id="g3392"
-       transform="translate(-115.19172,-4.9953147)">
+       transform="translate(-115.19172,1.027224)">
       <text
          xml:space="preserve"
          style="font-size:272.70526123px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -678,7 +682,7 @@
            id="flowPara3077-7-9" /></flowRoot>    </g>
     <g
        id="g3236"
-       transform="translate(-2664.979,306.76855)">
+       transform="translate(-2664.979,264.76855)">
       <flowRoot
          transform="translate(1976.9785,-981.90006)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1439,7 +1443,7 @@
     </g>
     <g
        id="g6132"
-       transform="translate(-30.356536,0)">
+       transform="translate(-30.356536,36)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:2.76788449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect4797"
@@ -1477,7 +1481,7 @@
            id="flowPara6130">Sentiment Analysis</flowPara></flowRoot>    </g>
     <g
        id="g6149"
-       transform="translate(0,38)">
+       transform="translate(1.5000006,74)">
       <rect
          y="-217.96521"
          x="1247.0396"
@@ -1500,7 +1504,7 @@
          x="1262.9767"
          y="-134.04292" />
       <flowRoot
-         transform="translate(-13.926722,-2194.6044)"
+         transform="translate(-25.767787,-2194.6044)"
          style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowRoot6141"
          xml:space="preserve"><flowRegion
@@ -1514,7 +1518,7 @@
            id="flowPara6147">Geolocation</flowPara></flowRoot>    </g>
     <g
        id="g6557"
-       transform="matrix(1.3109442,0,0,1.3109442,-308.64048,-152.30231)">
+       transform="matrix(1.3109442,0,0,1.3109442,-308.64048,-184.32042)">
       <rect
          transform="translate(0,-2187.641)"
          y="2809.1167"
@@ -1771,7 +1775,7 @@ o5HZnp1QZHUAAAAASUVORK5CYII=
          y="620.78632" />
     </g>
     <image
-       y="648.83075"
+       y="628.43311"
        x="1827.7189"
        id="image6569"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAESCAYAAAAFXbHnAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -3664,7 +3668,7 @@ AAAASUVORK5CYII=
        height="267.94226"
        width="782.31317" />
     <image
-       y="610.33197"
+       y="628.43311"
        x="3769.3896"
        id="image6580"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAAZYCAYAAADOrFl4AAAABHNCSVQICAgIfAhkiAAAIABJREFU
