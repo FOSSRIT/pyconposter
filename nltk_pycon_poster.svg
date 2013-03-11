@@ -519,7 +519,7 @@
          id="flowPara3205"
          style="font-size:40px" /></flowRoot>    <g
        id="g4237"
-       transform="translate(19.695359,-1047.6224)">
+       transform="translate(19.695359,-1271.6224)">
       <g
          id="g4401"
          transform="translate(-24.619198,196.95359)">
@@ -671,7 +671,7 @@
          id="flowPara3614"
          style="font-size:64px">Using natural language parsing to extract meaning from large quantities of text</flowPara></flowRoot>    <g
        id="g3250"
-       transform="translate(-152.74552,1310.2713)">
+       transform="translate(-88.735603,882.23164)">
       <flowRoot
          transform="translate(2736.9785,-1627.2912)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -719,7 +719,7 @@
            id="flowPara3077-7-9" /></flowRoot>    </g>
     <g
        id="g3236"
-       transform="translate(-2528.5004,590.88059)">
+       transform="translate(-2577.7388,310.22173)">
       <flowRoot
          transform="translate(1976.9785,-981.90006)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -832,8 +832,8 @@
            style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3077-7-9-0-1-5-8-3">What does that mean?</flowPara></flowRoot>    </g>
     <image
-       y="-255.33279"
-       x="687.26929"
+       y="-486.75327"
+       x="1741.7437"
        id="image3664"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABFgAAAJ8CAYAAADK7hW/AAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3XmQnPd93/n3cz9Pn3OCOASAJGgBOixCkqnYBO1SRG6odVmyXXLW8e46il3r1Fa060RrJUoq
@@ -2194,8 +2194,8 @@ RVLAIiIiIiIiIiKySApYREREREREREQW6f8HbSZjJ786ApoAAAAASUVORK5CYII=
        height="478.43713"
        width="836.5127" />
     <image
-       y="-254.70616"
-       x="1594.8223"
+       y="50.571896"
+       x="1795.134"
        id="image4199"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA8sAAAJeCAYAAACDLZfrAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3VuQHPWd6Plv3jPr3le1QCCBbFY+gNDO2d3h4NUGEY7BJg6zw/CyzAAO3oztF0cMHp8gNsL2
@@ -4853,26 +4853,26 @@ QmCC
     <rect
        style="fill:#737577"
        x="1576.7084"
-       y="-984.00818"
+       y="-1208.0082"
        width="1136.5288"
        height="156.77559"
        id="rect3" />
     <rect
        style="fill:#737577"
        x="3064.4402"
-       y="-984.00592"
+       y="-1208.0059"
        width="1136.5232"
        height="156.77107"
        id="rect5" />
     <rect
        style="fill:#737577"
        x="128.00258"
-       y="-984.00592"
+       y="-1208.0059"
        width="1136.5232"
        height="156.77107"
        id="rect7" />
     <g
-       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-2871.2139)"
+       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-3095.2139)"
        id="g9">
       <g
          id="g11">
@@ -4888,13 +4888,13 @@ QmCC
            id="g15">
           <polygon
              style="fill:#48484a"
-             points="278.655,347.386 270.02,342.399 270.02,352.371 "
+             points="270.02,352.371 278.655,347.386 270.02,342.399 "
              id="polygon17" />
         </g>
       </g>
     </g>
     <g
-       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-2880.9716)"
+       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-3104.9716)"
        id="g19">
       <g
          id="g21">
@@ -4910,13 +4910,13 @@ QmCC
            id="g25">
           <polygon
              style="fill:#48484a"
-             points="540.725,349.109 532.09,344.123 532.09,354.096 "
+             points="532.09,354.096 540.725,349.109 532.09,344.123 "
              id="polygon27" />
         </g>
       </g>
     </g>
     <g
-       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-2893.5869)"
+       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-3117.5869)"
        id="g29">
       <rect
          style="fill:none"
@@ -4937,7 +4937,7 @@ QmCC
       </text>
     </g>
     <g
-       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-2878.9603)"
+       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-3102.9603)"
        id="g35">
       <rect
          style="fill:none"
@@ -4958,7 +4958,7 @@ QmCC
       </text>
     </g>
     <g
-       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-2886.1887)"
+       transform="matrix(5.6582569,0,0,5.6582569,-73.165273,-3110.1887)"
        id="g41">
       <rect
          style="fill:none"
