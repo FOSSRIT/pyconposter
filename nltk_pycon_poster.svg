@@ -201,9 +201,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20309354"
-     inkscape:cx="2160"
-     inkscape:cy="1617.1625"
+     inkscape:zoom="0.40618707"
+     inkscape:cx="1899.7271"
+     inkscape:cy="1497.7996"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -574,7 +574,7 @@
              id="rect3069-9-1"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3073-8-4">Scraping email text</flowPara><flowPara
+           id="flowPara3073-8-4">Understanding email text</flowPara><flowPara
            style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3075-9-4" /><flowPara
            style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
@@ -595,7 +595,7 @@
              id="rect3069"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3077">&lt;insert text here&gt;</flowPara></flowRoot>      <flowRoot
+           id="flowPara3077">Mining twitter data</flowPara></flowRoot>      <flowRoot
          transform="translate(1976.9785,-1072.2672)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowRoot3065-9-7-6"
@@ -838,8 +838,8 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3614"
          style="font-size:64px">Using natural language parsing to extract meaning from large quantities of text</flowPara></flowRoot>    <image
-       y="-846.19348"
-       x="1123.0292"
+       y="-1082.5378"
+       x="1027.0143"
        id="image3664"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABFgAAAJ8CAYAAADK7hW/AAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3XmQnPd93/n3cz9Pn3OCOASAJGgBOixCkqnYBO1SRG6odVmyXXLW8e46il3r1Fa060RrJUoq
