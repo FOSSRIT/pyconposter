@@ -1247,9 +1247,7 @@
                id="rect3083"
                style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-             id="flowPara3093">These tagged tokens can be run through any number of NLTK functions to extract meaning</flowPara><flowPara
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-             id="flowPara3418" /></flowRoot>        <g
+             id="flowPara3418">Tokens can be simplified according to what root the words belong to in a process known as stemming or lemmatization. Stemming assumes that all words which share a prefix also share a root, whereas lemmatization more intelligently identifies common words even if they are dissimilar.</flowPara></flowRoot>        <g
            id="g6760">
           <rect
              id="rect3"
@@ -1269,14 +1267,14 @@
                x="301.06799"
                style="fill:none" />
             <text
-               y="357.47949"
-               x="365.0119"
+               y="356.19757"
+               x="354.28543"
                id="text39"
                font-size="27"
                style="font-size:27px;fill:#f5f5f5;font-family:VDS">
               <tspan
                  id="tspan4549"
-                 style="font-size:22.6218071px">Parse</tspan>
+                 style="font-size:22.6218071px">Simplify</tspan>
             </text>
           </g>
         </g>
@@ -1299,7 +1297,7 @@
            x="560.552"
            style="fill:none" />
         <text
-           y="357.47751"
+           y="357.47549"
            x="618.07886"
            id="text45"
            font-size="27"
@@ -1334,7 +1332,7 @@
            x="39.862"
            style="fill:none" />
         <text
-           y="357.47849"
+           y="358.78299"
            x="93.722229"
            style="font-size:22.6218071px;fill:#f5f5f5;font-family:VDS"
            id="text33"
