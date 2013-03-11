@@ -202,8 +202,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.40618707"
-     inkscape:cx="1899.7271"
-     inkscape:cy="1497.7996"
+     inkscape:cx="3750.5308"
+     inkscape:cy="1394.2034"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -508,22 +508,8 @@
            y="1285.7142" /></flowRegion><flowPara
          id="flowPara3191"
          style="font-size:40px">Links:</flowPara><flowPara
-         id="flowPara3193"
-         style="font-size:40px">[1]:    http://nltk.org</flowPara><flowPara
-         id="flowPara3195"
-         style="font-size:40px">[2]:    https://www.djangoproject.com/</flowPara><flowPara
-         style="font-size:40px"
-         id="flowPara3207">[3]:    http://fedoraproject.org/wiki/Anaconda/Kickstart</flowPara><flowPara
-         style="font-size:40px"
-         id="flowPara3209">[4]:    https://fedorahosted.org/spin-kickstarts/</flowPara><flowPara
-         style="font-size:40px"
-         id="flowPara3211">[5]:    http://fedoraproject.org/wiki/Pykickstart</flowPara><flowPara
-         style="font-size:40px"
-         id="flowPara3215">[6]:    http://www.makotemplates.org/</flowPara><flowPara
-         style="font-size:40px"
-         id="flowPara3219">[7]:    http://git.fedorahosted.org/git/?p=livecd;a=summary</flowPara><flowPara
          id="flowPara3197"
-         style="font-size:40px" /><flowPara
+         style="font-size:40px">[0]:    http://nltk.org</flowPara><flowPara
          id="flowPara3199"
          style="font-size:40px" /><flowPara
          id="flowPara3201"
@@ -643,7 +629,7 @@
            id="flowPara3077-7-9-0-1">2) Tokens are parsed for meaning</flowPara></flowRoot>    </g>
     <g
        id="g3219"
-       transform="translate(-25.4733,-82.86899)">
+       transform="translate(-35.4733,-82.86899)">
       <flowRoot
          transform="translate(2352.8216,-359.96749)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -715,7 +701,7 @@
            id="flowPara3077-7-9-0-1-5-8">What is NLTK?</flowPara></flowRoot>    </g>
     <g
        id="g3192"
-       transform="translate(-9.4733,-56)">
+       transform="translate(0.5267,-56)">
       <flowRoot
          transform="translate(-811.4375,-812.07115)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
