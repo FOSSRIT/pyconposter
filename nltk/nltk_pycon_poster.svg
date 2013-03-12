@@ -375,14 +375,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.19864822"
-     inkscape:cx="2161.7137"
+     inkscape:cx="1315.9976"
      inkscape:cy="1605.1625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1592"
-     inkscape:window-height="840"
+     inkscape:window-height="849"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -792,7 +792,7 @@
              id="rect3115"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-           id="flowPara3123">NLTK[0] is a library for parsing and understanding natural language with Python.</flowPara><flowPara
+           id="flowPara3123">NLTK is a library for parsing and understanding natural language with Python.</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara4449">NLTK can be used to make decisions with text in human language, frst by <flowSpan
    style="font-weight:bold"
