@@ -479,10 +479,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1993334"
-     inkscape:cx="2165.0126"
-     inkscape:cy="1642.9316"
+     inkscape:cx="1517.8556"
+     inkscape:cy="1442.2628"
      inkscape:document-units="px"
-     inkscape:current-layer="g3633"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1600"
@@ -490,7 +490,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-nodes="false">
@@ -1548,7 +1548,7 @@
            y="2212.9326" /></flowRegion><flowPara
          id="flowPara4389" /></flowRoot>    <g
        id="g5587"
-       transform="translate(1.7659912,0)">
+       transform="translate(1.7659912,-4.4177328e-5)">
       <rect
          y="-634.89557"
          x="1622.5383"
