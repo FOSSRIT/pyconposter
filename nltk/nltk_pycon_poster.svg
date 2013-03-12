@@ -374,9 +374,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93956828"
-     inkscape:cx="462.13575"
-     inkscape:cy="773.83101"
+     inkscape:zoom="0.41081046"
+     inkscape:cx="1415.3515"
+     inkscape:cy="857.2324"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1105,7 +1105,7 @@
     </g>
     <g
        id="g5006"
-       transform="translate(-334.49167,32.004957)">
+       transform="translate(-334.49167,68.004957)">
       <rect
          id="rect3-7"
          height="49.138"
@@ -3693,12 +3693,47 @@ ayJaJgRBEARBuCYimBAEQRAE4ZqIYEIQBEEQhGvy/wPc35kVJzLF1QAAAABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot4395"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(0,-2187.641)"><flowRegion
+       transform="translate(6.959152,-2189.2709)"><flowRegion
          id="flowRegion4397"><rect
            id="rect4399"
-           width="374.64014"
-           height="356.54672"
+           width="544.93109"
+           height="447.89935"
            x="429.98471"
-           y="2315.1072" /></flowRegion><flowPara
-         id="flowPara4401">dsa;fksdf</flowPara></flowRoot>  </g>
+           y="2315.1072"
+           style="font-size:40px" /></flowRegion><flowPara
+         id="flowPara4401"
+         style="font-size:40px">A two-hour debate session resulted in tens of millions of tweets, of which only 1% could be captured. Data is verified as correct JSON entries before the relevant parts are pulled out, formatted, and stored into a MongoDB database for later analysis. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4403"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-2220.225)"><flowRegion
+         id="flowRegion4405"><rect
+           id="rect4407"
+           width="535.52679"
+           height="223.94756"
+           x="1017.5009"
+           y="1735.6566" /></flowRegion><flowPara
+         id="flowPara4409">Simple frequency analysis can show off features of the data, including popular topics and influential users</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4411"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-45.292969,-2216.0107)"><flowRegion
+         id="flowRegion4413"><rect
+           id="rect4415"
+           width="489.27673"
+           height="275.06604"
+           x="1063.751"
+           y="2083.749" /></flowRegion><flowPara
+         id="flowPara4417">Some users opt to include location data with the tweet</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4419"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-40.085937,-2201.2973)"><flowRegion
+         id="flowRegion4421"><rect
+           id="rect4423"
+           width="481.97409"
+           height="223.94756"
+           x="1058.8824"
+           y="2492.6968" /></flowRegion><flowPara
+         id="flowPara4425">Sentiment</flowPara></flowRoot>  </g>
 </svg>
