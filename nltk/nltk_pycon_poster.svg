@@ -1251,10 +1251,10 @@
            id="g6760">
           <rect
              id="rect3"
-             height="156.77559"
-             width="1136.5288"
-             y="-1208.0082"
-             x="1576.7084"
+             height="149.99994"
+             width="1136.2607"
+             y="-1204.6204"
+             x="1596.3524"
              style="fill:#737577" />
           <g
              id="g35"
@@ -1268,7 +1268,7 @@
                style="fill:none" />
             <text
                y="356.19757"
-               x="354.28543"
+               x="357.73349"
                id="text39"
                font-size="27"
                style="font-size:27px;fill:#f5f5f5;font-family:VDS">
@@ -1281,10 +1281,10 @@
       </g>
       <rect
          id="rect5"
-         height="156.77107"
-         width="1136.5232"
-         y="-1208.0071"
-         x="3064.4402"
+         height="149.99562"
+         width="1136.2551"
+         y="-1204.6193"
+         x="3064.2278"
          style="fill:#737577" />
       <g
          id="g41"
@@ -1298,7 +1298,7 @@
            style="fill:none" />
         <text
            y="357.47549"
-           x="618.07886"
+           x="618.01764"
            id="text45"
            font-size="27"
            style="font-size:27px;fill:#f5f5f5;font-family:VDS">
@@ -1316,10 +1316,10 @@
          y="-871.19135" />
       <rect
          id="rect7"
-         height="156.77107"
-         width="1136.5232"
-         y="-1208.0071"
-         x="128.00258"
+         height="149.99562"
+         width="1136.2551"
+         y="-1204.6193"
+         x="128.48297"
          style="fill:#737577" />
       <g
          id="g29"
@@ -1333,7 +1333,7 @@
            style="fill:none" />
         <text
            y="358.78299"
-           x="93.722229"
+           x="93.78344"
            style="font-size:22.6218071px;fill:#f5f5f5;font-family:VDS"
            id="text33"
            font-size="27">
@@ -1352,7 +1352,7 @@
     </g>
     <g
        id="g5006"
-       transform="translate(-194.49167,32.004957)">
+       transform="translate(-334.49167,32.004957)">
       <rect
          id="rect3-7"
          height="49.138"
@@ -1408,7 +1408,7 @@
              id="g17">
             <polygon
                id="polygon19"
-               points="475.608,186.128 491.349,186.812 482.888,200.101 "
+               points="491.349,186.812 482.888,200.101 475.608,186.128 "
                style="fill:#434343" />
           </g>
         </g>
@@ -1428,7 +1428,7 @@
              id="g27">
             <polygon
                id="polygon29"
-               points="414.573,186.816 430.313,186.132 423.036,200.105 "
+               points="430.313,186.132 423.036,200.105 414.573,186.816 "
                style="fill:#434343" />
           </g>
         </g>
