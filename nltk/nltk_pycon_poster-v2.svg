@@ -479,16 +479,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22140834"
-     inkscape:cx="2165.0126"
-     inkscape:cy="1642.9316"
+     inkscape:cx="2151.1216"
+     inkscape:cy="2141.0917"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1600"
-     inkscape:window-height="875"
-     inkscape:window-x="-4"
-     inkscape:window-y="3"
+     inkscape:window-height="841"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -645,7 +645,7 @@
        xml:space="preserve"
        id="flowRoot3608"
        style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
-       transform="translate(-1006.094,-2228.4525)"><flowRegion
+       transform="translate(-1006.094,-2228.8685)"><flowRegion
          id="flowRegion3610"><rect
            id="rect3612"
            width="3955.9937"
@@ -654,7 +654,7 @@
            y="345.11923"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3614"
-         style="font-size:64px;font-weight:380;-inkscape-font-specification:URW Gothic L Book;font-family:URW Gothic L;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%">Using natural language parsing to learn from large quantities of text</flowPara></flowRoot>    <flowRoot
+         style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Using natural language parsing to learn from large quantities of text</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3065-9-7-6"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
@@ -1061,7 +1061,7 @@
            id="flowPara3077-7-9-0-1-5-8">What is NLTK?</flowPara></flowRoot>    </g>
     <g
        id="g3400"
-       transform="translate(4351.1043,-821.31524)">
+       transform="translate(4351.1043,-871.31524)">
       <flowRoot
          transform="translate(-1362.3053,-221.7224)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1079,9 +1079,13 @@
    style="font-weight:bold"
    id="flowSpan3616">Tokenizing</flowSpan>: Taking a string of words and splitting them into individual words or tokens.</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara12161" /><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3606"><flowSpan
    style="font-weight:bold"
    id="flowSpan3618">Tagging</flowSpan>: Taking a token in the context of the sentence to find its part of speech (verb, noun, adjective, etc.)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara12163" /><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
            id="flowPara3636">Classification<flowSpan
    style="font-weight:normal"
@@ -2114,5 +2118,18 @@
            x="818.57141"
            y="340" /></flowRegion><flowPara
          id="flowPara3077-7-9-0-0"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold">Visualizations</flowPara></flowRoot>  </g>
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold">Visualizations</flowPara></flowRoot>    <flowRoot
+       transform="translate(1021.0449,-2221.9885)"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       id="flowRoot12165"
+       xml:space="preserve"><flowRegion
+         id="flowRegion12167"><rect
+           style="text-align:center;text-anchor:middle"
+           y="345.11923"
+           x="169.9841"
+           height="149.37997"
+           width="3955.9937"
+           id="rect12169" /></flowRegion><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+         id="flowPara12171">Nathaniel Case &amp; Eitan Romanoff </flowPara></flowRoot>  </g>
 </svg>
